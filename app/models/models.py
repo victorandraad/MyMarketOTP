@@ -58,7 +58,7 @@ class Post(BaseModel):
     datetime: int
 
 class Pokemon(BaseModel):
-    anuncio_id: int
+    anuncio_id: str
     name: str
     level: int
     nature: str
@@ -68,7 +68,7 @@ class Pokemon(BaseModel):
     boost: int
 
 class Items(BaseModel):
-    anuncio_id: int
+    anuncio_id: str
     type: str
     name: str
 
