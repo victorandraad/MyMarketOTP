@@ -4,6 +4,8 @@ from tinydb import TinyDB, Query
 
 poke_db = TinyDB("./app/database/pokemons.json", indent = 4)
 stone_db = TinyDB("./app/database/stones.json", indent = 4)
+tm_db = TinyDB("./app/database/tms.json", indent = 4)
+balls_db = TinyDB("./app/database/pokeballs.json", indent = 4)
 
 query = Query()
 
@@ -117,7 +119,15 @@ class Validate():
         if item_data['type'] == 'stone':
             if not stone_db.search(query.name == item_data['name']):
                 return "Invalid stone name." 
-            
+        elif item_data['type'] == 'tm':
+            if not tm_db.search(query.name == item_data['name']):
+                return "Invalid TM name."
+        elif item_data['type'] == 'pokeball':
+            if not balls_db.search(query.name == item_data['name']):
+                return "Invalid pokeBall name." 
+        elif item_data['type'] == 'undefined':
+            if not self.credential_length(item_data['name'], 50):
+                return "Item type must have between 2 and 50 characters." 
 
         # Validate type
         if not self.credential_length(item_data['type'], 50):
