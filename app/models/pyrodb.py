@@ -78,7 +78,8 @@ def verify_user(key) -> None:
 # --> Post Handling <--
 def create_post(post: Post, user_email: str) -> str:
     identifier = str(uuid4())
-    post_to_create = PostInDB(identifier=identifier, owner=user_email, **post.model_dump()).model_dump()
+    quantidade = 0
+    post_to_create = PostInDB(identifier=identifier, owner=user_email, qtd=quantidade, **post.model_dump()).model_dump()
     
     posts.insert_one(post_to_create)
     append_post_to_owner(user_email, identifier)

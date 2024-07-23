@@ -58,7 +58,7 @@ class Post(BaseModel):
     datetime: int
 
 class Pokemon(BaseModel):
-    anuncio_id: str
+    identifier: str
     name: str
     level: int
     nature: str
@@ -68,13 +68,14 @@ class Pokemon(BaseModel):
     boost: int
 
 class Items(BaseModel):
-    anuncio_id: str
+    identifier: str
     type: str
     name: str
 
 class PostInDB(Post):
     owner: EmailStr
     identifier: str
+    qtd: int
 
 class ItemInDB(Items):
     owner: EmailStr
