@@ -54,8 +54,7 @@ class DownloadCache(BaseModel):
 # --> Post Models <--
 class Post(BaseModel):
     title: str
-    user_id: int
-    desc: str
+    description: str
     datetime: int
 
 class Pokemon(BaseModel):

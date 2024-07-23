@@ -23,17 +23,23 @@ async def create_post(post_info: Post, user: User = Depends(get_current_active_u
 
 
 @router.post("/create_post/pokemon")
-async def pokemon(pokemon: Pokemon, user: User = Depends(get_current_active_user)) -> dict:
+async def add_pokemon(pokemon: Pokemon, user: User = Depends(get_current_active_user)) -> dict:
 
     user_email = user.model_dump()['email']
+
+    if v := validate.validate_pokemon(pokemon):
+        raise HTTPException(400, detail=v)
     
     pyrodb.insert_pokemon_to_post(user_email, pokemon)
     return {"status": 200, "detail": "Pokemon added to the post succesfully"}
 
 @router.post("/create_post/item")
-async def item(item: Items, user: User = Depends(get_current_active_user)) -> dict:
+async def add_item(item: Items, user: User = Depends(get_current_active_user)) -> dict:
 
     user_email = user.model_dump()['email']
+
+    if v := validate.validate_items(item):
+        raise HTTPException(400, detail=v)
     
     pyrodb.insert_item_to_post(user_email, item)
     return {"status": 200, "detail": "Item added to the post succesfully"}

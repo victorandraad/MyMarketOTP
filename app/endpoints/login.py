@@ -14,23 +14,27 @@ validate = Validate()
 def signup_for_account(form_data: UserInSignup):
 
     form_data = form_data.model_dump()
+    email = form_data["email"]
+    
+    if pyrodb.get_user():
+        raise HTTPException(400, detail="Email in already in use!")
 
     if v:= validate.username(form_data["username"]):
         raise HTTPException(400, detail=v)
 
-    if v := validate.email(form_data["email"]):
+    if v := validate.email(email):
         raise HTTPException(400, detail=v)
 
     if v := validate.password(form_data['password']):
         raise HTTPException(400, detail=v)
 
-    try:
-        if code := pyrodb.add_user(**form_data):
-            # emails.send_verification(form_data["email"], code)i
-            return {"status": 200, "detail": "Registered Succesfully!"}
-        raise HTTPException(400, detail="Email in already in use!")
-    except:
-        raise HTTPException(400, detail="Please insert valid information!")
+    # try:
+    #     if code := pyrodb.add_user(**form_data):
+    #         # emails.send_verification(form_data["email"], code)
+    #         return {"status": 200, "detail": "Registered Succesfully!"}
+    #     raise HTTPException(400, detail="Email in already in use!")
+    # except:
+    #     raise HTTPException(400, detail="Please insert valid information!")
 
     
 @router.post("/signin", response_model=Token, tags=["authentication"])
