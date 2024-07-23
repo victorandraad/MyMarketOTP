@@ -1,0 +1,88 @@
+{
+    "_default": {
+        "1": {
+            "name": "leaf_stone",
+            "link": "https://wiki.otpokemon.com/images/0/00/Leaf_Stone.png"
+        },
+        "2": {
+            "name": "water_stone",
+            "link": "https://wiki.otpokemon.com/images/e/e0/Water_Stone.png"
+        },
+        "3": {
+            "name": "fire_stone",
+            "link": "https://wiki.otpokemon.com/images/6/63/Fire_Stone.png"
+        },
+        "4": {
+            "name": "thunder_stone",
+            "link": "https://wiki.otpokemon.com/images/b/b3/Thunder_Stone.png"
+        },
+        "5": {
+            "name": "earth_stone",
+            "link": "https://wiki.otpokemon.com/images/a/ae/Earth_Stone.png"
+        },
+        "6": {
+            "name": "insect_stone",
+            "link": "https://wiki.otpokemon.com/images/6/64/Insect_Stone.png"
+        },
+        "7": {
+            "name": "rock_stone",
+            "link": "https://wiki.otpokemon.com/images/9/95/Rock_Stone.png"
+        },
+        "8": {
+            "name": "poison_stone",
+            "link": "https://wiki.otpokemon.com/images/e/ee/Poison_Stone.png"
+        },
+        "9": {
+            "name": "heart_stone",
+            "link": "https://wiki.otpokemon.com/images/0/0b/Heart_Stone.png"
+        },
+        "10": {
+            "name": "winner_stone",
+            "link": "https://wiki.otpokemon.com/images/6/6a/Winner_Stone.png"
+        },
+        "11": {
+            "name": "psychic_stone",
+            "link": "https://wiki.otpokemon.com/images/d/d8/Psychic_Stone.png"
+        },
+        "12": {
+            "name": "dusk_stone",
+            "link": "https://wiki.otpokemon.com/images/3/39/Dusk_Stone.png"
+        },
+        "13": {
+            "name": "dragon_stone",
+            "link": "https://wiki.otpokemon.com/images/3/30/Dragon_Stone.png"
+        },
+        "14": {
+            "name": "ice_stone",
+            "link": "https://wiki.otpokemon.com/images/d/de/Ice_Stone.png"
+        },
+        "15": {
+            "name": "fairy_stone",
+            "link": "https://wiki.otpokemon.com/images/d/d9/Fairy_Stone.png"
+        },
+        "16": {
+            "name": "sun_stone",
+            "link": "https://wiki.otpokemon.com/images/0/0a/Sun_Stone.png"
+        },
+        "17": {
+            "name": "lovely_stone",
+            "link": "https://wiki.otpokemon.com/images/4/4c/Lovely_Stone.png"
+        },
+        "18": {
+            "name": "articuno_feather",
+            "link": "https://wiki.otpokemon.com/images/0/0d/Articuno_Feather.png"
+        },
+        "19": {
+            "name": "cursed_souls",
+            "link": "https://wiki.otpokemon.com/images/f/f6/Cursed_Souls.png"
+        },
+        "20": {
+            "name": "green_ambar",
+            "link": "https://wiki.otpokemon.com/images/7/73/Green_Ambar.png"
+        },
+        "21": {
+            "name": "soothe_bell",
+            "link": "https://wiki.otpokemon.com/images/4/4c/Soothe_Bell.png"
+        }
+    }
+}

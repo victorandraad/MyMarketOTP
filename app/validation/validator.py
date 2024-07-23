@@ -3,6 +3,7 @@ from fastapi import UploadFile
 from tinydb import TinyDB, Query
 
 poke_db = TinyDB("./app/database/pokemons.json", indent = 4)
+stone_db = TinyDB("./app/database/stones.json", indent = 4)
 
 query = Query()
 
@@ -108,6 +109,16 @@ class Validate():
     def validate_items(self, item: Items):
         item_data = item.model_dump()
 
+        types = ["stone", "tm", "pokeball", "undefined"]
+
+        if not item_data['type'] in types:
+            return "Item don't have a specific type"
+        
+        if item_data['type'] == 'stone':
+            if not stone_db.search(query.name == item_data['name']):
+                return "Invalid stone name." 
+            
+
         # Validate type
         if not self.credential_length(item_data['type'], 50):
             return "Item type must have between 2 and 50 characters"
@@ -115,29 +126,4 @@ class Validate():
         # Validate name
         if not self.credential_length(item_data['name'], 50):
             return "Item name must have between 2 and 50 characters" 
-    
-    def file(self, file: UploadFile):
-        max_file_size = 50000000
-        
-        # --> Filename
-        filename = file.filename
-
-        if not self.credential_length(filename, 30, 6):
-            return "Filename must have between 6 and 30 characters"
-        
-        # --> File Extension
-        file_extension = filename[-4::]
-
-        if file_extension != '.jar':
-            return "File must be a jar"
-        
-        # --> File Size
-        file_size = file.size
-
-        if file_size > max_file_size:
-            return "File size must be smaller than 50mb"
-
-        return False
-
-
     
