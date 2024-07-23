@@ -1,10 +1,14 @@
 from app.models.models import *
 from fastapi import UploadFile
+from tinydb import TinyDB, Query
 
+db = TinyDB("./app/database/pokemons.json", indent = 4)
+
+query = Query()
 
 class Validate():
     
-    def credential_lenght(self, credential: str, max_lenght: int = 100, min_lenght: int = 2) -> bool:
+    def credential_length(self, credential: str, max_lenght: int = 100, min_lenght: int = 2) -> bool:
         
         if len(credential) > max_lenght:
             return False
@@ -22,7 +26,7 @@ class Validate():
             print(username, username.isalnum())
             return "Username can only have Letters and Numbers"
         
-        elif not self.credential_lenght(username, max_lenght, min_lenght):
+        elif not self.credential_length(username, max_lenght, min_lenght):
             return "Username must have between 3 and 25 characters"
         
         return False
@@ -38,7 +42,7 @@ class Validate():
         elif any(c in invalid_chars for c in email):
             return "Email contains illegal characters"
         
-        elif not self.credential_lenght(email, max_lenght, min_lenght):
+        elif not self.credential_length(email, max_lenght, min_lenght):
             return "Email must have between 5 and 50 characters"
         
         return False
@@ -51,7 +55,7 @@ class Validate():
         if not password.isascii():
             return "Password contains illegal characters"
         
-        elif not self.credential_lenght(password, max_lenght, min_lenght):
+        elif not self.credential_length(password, max_lenght, min_lenght):
             return "Password must have between 8 and 32 characters"
         
         return False
@@ -63,22 +67,54 @@ class Validate():
         # --> Title
         post_title = post["title"]
 
-        if not self.credential_lenght(post_title, 25):
+        if not self.credential_length(post_title, 25):
             return "Post title must have between 2 and 25 characters"
-        
-        # --> About
-        post_about = post["about"]
-
-        if not self.credential_lenght(post_about, 50):
-            return "Post about must have between 2 and 50 characters"
     
         # --> Description
         post_description = post["description"]
 
-        if not self.credential_lenght(post_description, 1000):
+        if not self.credential_length(post_description, 1000):
             return "Post description must have between 2 and 1000 characters"
         
         return False
+    
+    def validate_pokemon(self, pokemon: Pokemon):
+        pokemon_data = pokemon.model_dump()
+
+        # Validate name
+        if not db.search(query.name == pokemon_data['name']):
+            return "Invalid pokemon name"
+
+        # Validate level
+        if not (1 <= pokemon_data['level'] <= 100):
+            return "Pokemon level must be between 1 and 100"
+
+        # Validate nature
+        if not self.credential_length(pokemon_data['nature'], 20):
+            return "Pokemon nature must have between 2 and 20 characters"
+
+        # Validate pokeball
+        if not self.credential_length(pokemon_data['pokeball'], 20):
+            return "Pokemon pokeball must have between 2 and 20 characters"
+
+        # Validate addon
+        if not self.credential_length(pokemon_data['addon'], 100, 0):
+            return "Pokemon addon must have a maximum of 100 characters" 
+
+        # Validate boost
+        if not (0 <= pokemon_data['boost'] <= 10):
+            return "Pokemon boost must be between 0 and 10" 
+
+    def validate_items(self, item: Items):
+        item_data = item.model_dump()
+
+        # Validate type
+        if not self.credential_length(item_data['type'], 50):
+            return "Item type must have between 2 and 50 characters"
+
+        # Validate name
+        if not self.credential_length(item_data['name'], 50):
+            return "Item name must have between 2 and 50 characters" 
     
     def file(self, file: UploadFile):
         max_file_size = 50000000
@@ -86,7 +122,7 @@ class Validate():
         # --> Filename
         filename = file.filename
 
-        if not self.credential_lenght(filename, 30, 6):
+        if not self.credential_length(filename, 30, 6):
             return "Filename must have between 6 and 30 characters"
         
         # --> File Extension
