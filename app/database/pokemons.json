@@ -81,2890 +81,3010 @@
             "link": "https://wiki.otpokemon.com/images/8/84/Min-primeape.png"
         },
         "21": {
+            "name": "hitmonchan",
+            "link": "https://wiki.otpokemon.com/images/7/73/Hitmonchan.png"
+        },
+        "22": {
             "name": "wartortle",
             "link": "https://wiki.otpokemon.com/images/c/c4/Min-wartortle.png"
         },
-        "22": {
+        "23": {
             "name": "growlithe",
             "link": "https://wiki.otpokemon.com/images/3/3d/Min-growlithe.png"
         },
-        "23": {
+        "24": {
             "name": "lickitung",
             "link": "https://wiki.otpokemon.com/images/e/e3/Min-lickitung.png"
         },
-        "24": {
+        "25": {
+            "name": "blastoise",
+            "link": "https://wiki.otpokemon.com/images/4/41/Blastoise.png"
+        },
+        "26": {
+            "name": "arcanine",
+            "link": "https://wiki.otpokemon.com/images/5/50/Arcanine.png"
+        },
+        "27": {
             "name": "koffing",
             "link": "https://wiki.otpokemon.com/images/a/ae/Min-koffing.png"
         },
-        "25": {
+        "28": {
             "name": "caterpie",
             "link": "https://wiki.otpokemon.com/images/5/54/Min-caterpie.png"
         },
-        "26": {
+        "29": {
             "name": "poliwag",
             "link": "https://wiki.otpokemon.com/images/1/12/Min-poliwag.png"
         },
-        "27": {
+        "30": {
             "name": "weezing",
             "link": "https://wiki.otpokemon.com/images/3/30/Min-weezing.png"
         },
-        "28": {
+        "31": {
             "name": "metapod",
             "link": "https://wiki.otpokemon.com/images/0/00/Min-metapod.png"
         },
-        "29": {
+        "32": {
             "name": "poliwhirl",
             "link": "https://wiki.otpokemon.com/images/5/5b/Min-poliwhirl.png"
         },
-        "30": {
+        "33": {
             "name": "rhyhorn",
             "link": "https://wiki.otpokemon.com/images/8/83/Min-rhyhorn.png"
         },
-        "31": {
+        "34": {
             "name": "butterfree",
             "link": "https://wiki.otpokemon.com/images/7/79/Min-butterfree.png"
         },
-        "32": {
+        "35": {
             "name": "poliwrath",
             "link": "https://wiki.otpokemon.com/images/5/5d/Min-poliwrath.png"
         },
-        "33": {
+        "36": {
             "name": "rhydon",
             "link": "https://wiki.otpokemon.com/images/5/56/Min-rhydon.png"
         },
-        "34": {
+        "37": {
             "name": "weedle",
             "link": "https://wiki.otpokemon.com/images/b/b7/Min-weedle.png"
         },
-        "35": {
+        "38": {
+            "name": "abra",
+            "link": "https://wiki.otpokemon.com/images/f/f6/Abra.png"
+        },
+        "39": {
             "name": "chansey",
             "link": "https://wiki.otpokemon.com/images/8/82/Min-chansey.png"
         },
-        "36": {
+        "40": {
             "name": "kakuna",
             "link": "https://wiki.otpokemon.com/images/a/af/Min-kakuna.png"
         },
-        "37": {
+        "41": {
+            "name": "kadabra",
+            "link": "https://wiki.otpokemon.com/images/b/b0/Kadabra.png"
+        },
+        "42": {
+            "name": "tangela",
+            "link": "https://wiki.otpokemon.com/images/0/03/Tangela.png"
+        },
+        "43": {
             "name": "beedrill",
             "link": "https://wiki.otpokemon.com/images/0/02/Min-beedrill.png"
         },
-        "38": {
+        "44": {
             "name": "alakazam",
             "link": "https://wiki.otpokemon.com/images/a/aa/Min-alakazam.png"
         },
-        "39": {
+        "45": {
             "name": "kangaskhan",
             "link": "https://wiki.otpokemon.com/images/2/23/Min-kangaskhan.png"
         },
-        "40": {
+        "46": {
             "name": "pidgey",
             "link": "https://wiki.otpokemon.com/images/d/d2/Min-pidgey.png"
         },
-        "41": {
+        "47": {
             "name": "machop",
             "link": "https://wiki.otpokemon.com/images/3/36/Min-machop.png"
         },
-        "42": {
+        "48": {
             "name": "horsea",
             "link": "https://wiki.otpokemon.com/images/a/af/Min-horsea.png"
         },
-        "43": {
+        "49": {
             "name": "pidgeotto",
             "link": "https://wiki.otpokemon.com/images/9/93/Min-pidgeotto.png"
         },
-        "44": {
+        "50": {
             "name": "machoke",
             "link": "https://wiki.otpokemon.com/images/d/de/Min-machoke.png"
         },
-        "45": {
+        "51": {
             "name": "seadra",
             "link": "https://wiki.otpokemon.com/images/a/ae/Min-seadra.png"
         },
-        "46": {
+        "52": {
             "name": "pidgeot",
             "link": "https://wiki.otpokemon.com/images/6/6e/Min-pidgeot.png"
         },
-        "47": {
+        "53": {
             "name": "machamp",
             "link": "https://wiki.otpokemon.com/images/6/6e/Min-machamp.png"
         },
-        "48": {
+        "54": {
             "name": "goldeen",
             "link": "https://wiki.otpokemon.com/images/c/cf/Min-goldeen.png"
         },
-        "49": {
+        "55": {
+            "name": "rattata",
+            "link": "https://wiki.otpokemon.com/images/c/c4/Rattata.png"
+        },
+        "56": {
             "name": "bellsprout",
             "link": "https://wiki.otpokemon.com/images/2/2a/Min-bellsprout.png"
         },
-        "50": {
+        "57": {
             "name": "seaking",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-seaking.png"
         },
-        "51": {
+        "58": {
             "name": "raticate",
             "link": "https://wiki.otpokemon.com/images/3/35/Min-raticate.png"
         },
-        "52": {
+        "59": {
             "name": "weepinbell",
             "link": "https://wiki.otpokemon.com/images/3/3e/Min-weepinbell.png"
         },
-        "53": {
+        "60": {
             "name": "staryu",
             "link": "https://wiki.otpokemon.com/images/0/03/Min-staryu.png"
         },
-        "54": {
+        "61": {
             "name": "spearow",
             "link": "https://wiki.otpokemon.com/images/c/ce/Min-spearow.png"
         },
-        "55": {
+        "62": {
+            "name": "victreebel",
+            "link": "https://wiki.otpokemon.com/images/5/55/Victreebel.png"
+        },
+        "63": {
             "name": "starmie",
             "link": "https://wiki.otpokemon.com/images/3/37/Min-starmie.png"
         },
-        "56": {
+        "64": {
             "name": "fearow",
             "link": "https://wiki.otpokemon.com/images/6/60/Min-fearow.png"
         },
-        "57": {
+        "65": {
             "name": "tentacool",
             "link": "https://wiki.otpokemon.com/images/3/37/Min-tentacool.png"
         },
-        "58": {
+        "66": {
             "name": "mr-mime",
             "link": "https://wiki.otpokemon.com/images/f/fd/Min-mr-mime.png"
         },
-        "59": {
+        "67": {
             "name": "ekans",
             "link": "https://wiki.otpokemon.com/images/4/44/Min-ekans.png"
         },
-        "60": {
+        "68": {
             "name": "tentacruel",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-tentacruel.png"
         },
-        "61": {
+        "69": {
             "name": "scyther",
             "link": "https://wiki.otpokemon.com/images/7/7d/Min-scyther.png"
         },
-        "62": {
+        "70": {
             "name": "arbok",
             "link": "https://wiki.otpokemon.com/images/8/81/Min-arbok.png"
         },
-        "63": {
+        "71": {
+            "name": "geodude",
+            "link": "https://wiki.otpokemon.com/images/1/12/Geodude.png"
+        },
+        "72": {
             "name": "jynx",
             "link": "https://wiki.otpokemon.com/images/c/cd/Min-jynx.png"
         },
-        "64": {
+        "73": {
             "name": "pikachu",
             "link": "https://wiki.otpokemon.com/images/4/4c/Min-pikachu.png"
         },
-        "65": {
+        "74": {
             "name": "graveler",
             "link": "https://wiki.otpokemon.com/images/0/00/Min-graveler.png"
         },
-        "66": {
+        "75": {
             "name": "electabuzz",
             "link": "https://wiki.otpokemon.com/images/5/5d/Min-electabuzz.png"
         },
-        "67": {
+        "76": {
             "name": "raichu",
             "link": "https://wiki.otpokemon.com/images/2/25/Min-raichu.png"
         },
-        "68": {
+        "77": {
+            "name": "golem",
+            "link": "https://wiki.otpokemon.com/images/c/ce/Golem.png"
+        },
+        "78": {
             "name": "magmar",
             "link": "https://wiki.otpokemon.com/images/c/cb/Min-magmar.png"
         },
-        "69": {
+        "79": {
             "name": "sandshrew",
             "link": "https://wiki.otpokemon.com/images/2/22/Min-sandshrew.png"
         },
-        "70": {
+        "80": {
             "name": "ponyta",
             "link": "https://wiki.otpokemon.com/images/3/32/Min-ponyta.png"
         },
-        "71": {
+        "81": {
             "name": "pinsir",
             "link": "https://wiki.otpokemon.com/images/2/2e/Min-pinsir.png"
         },
-        "72": {
+        "82": {
             "name": "sandslash",
             "link": "https://wiki.otpokemon.com/images/d/db/Min-sandslash.png"
         },
-        "73": {
+        "83": {
             "name": "rapidash",
             "link": "https://wiki.otpokemon.com/images/7/71/Min-rapidash.png"
         },
-        "74": {
+        "84": {
             "name": "tauros",
             "link": "https://wiki.otpokemon.com/images/5/52/Min-tauros.png"
         },
-        "75": {
+        "85": {
             "name": "nidoran-f",
             "link": "https://wiki.otpokemon.com/images/e/e8/Min-nidoran-f.png"
         },
-        "76": {
+        "86": {
             "name": "slowpoke",
             "link": "https://wiki.otpokemon.com/images/2/21/Min-slowpoke.png"
         },
-        "77": {
+        "87": {
             "name": "magikarp",
             "link": "https://wiki.otpokemon.com/images/8/8d/Min-magikarp.png"
         },
-        "78": {
+        "88": {
             "name": "nidorina",
             "link": "https://wiki.otpokemon.com/images/c/cd/Min-nidorina.png"
         },
-        "79": {
+        "89": {
+            "name": "slowbro",
+            "link": "https://wiki.otpokemon.com/images/e/e1/Slowbro.png"
+        },
+        "90": {
             "name": "gyarados",
             "link": "https://wiki.otpokemon.com/images/b/bf/Min-gyarados.png"
         },
-        "80": {
+        "91": {
             "name": "nidoqueen",
             "link": "https://wiki.otpokemon.com/images/f/f2/Min-nidoqueen.png"
         },
-        "81": {
+        "92": {
             "name": "magnemite",
             "link": "https://wiki.otpokemon.com/images/7/7f/Min-magnemite.png"
         },
-        "82": {
+        "93": {
             "name": "lapras",
             "link": "https://wiki.otpokemon.com/images/e/e7/Min-lapras.png"
         },
-        "83": {
+        "94": {
             "name": "nidoran-m",
             "link": "https://wiki.otpokemon.com/images/a/ac/Min-nidoran-m.png"
         },
-        "84": {
+        "95": {
             "name": "magneton",
             "link": "https://wiki.otpokemon.com/images/0/07/Min-magneton.png"
         },
-        "85": {
+        "96": {
             "name": "ditto",
             "link": "https://wiki.otpokemon.com/images/8/89/Min-ditto.png"
         },
-        "86": {
+        "97": {
             "name": "nidorino",
             "link": "https://wiki.otpokemon.com/images/3/33/Min-nidorino.png"
         },
-        "87": {
+        "98": {
             "name": "farfetchd",
             "link": "https://wiki.otpokemon.com/images/d/d9/Min-farfetchd.png"
         },
-        "88": {
+        "99": {
             "name": "eevee",
             "link": "https://wiki.otpokemon.com/images/a/aa/Min-eevee.png"
         },
-        "89": {
+        "100": {
             "name": "nidoking",
             "link": "https://wiki.otpokemon.com/images/b/b3/Min-nidoking.png"
         },
-        "90": {
+        "101": {
             "name": "doduo",
             "link": "https://wiki.otpokemon.com/images/3/30/Min-doduo.png"
         },
-        "91": {
+        "102": {
             "name": "vaporeon",
             "link": "https://wiki.otpokemon.com/images/b/bf/Min-vaporeon.png"
         },
-        "92": {
+        "103": {
             "name": "clefairy",
             "link": "https://wiki.otpokemon.com/images/d/d9/Min-clefairy.png"
         },
-        "93": {
+        "104": {
             "name": "dodrio",
             "link": "https://wiki.otpokemon.com/images/5/5f/Min-dodrio.png"
         },
-        "94": {
+        "105": {
             "name": "jolteon",
             "link": "https://wiki.otpokemon.com/images/c/cb/Min-jolteon.png"
         },
-        "95": {
+        "106": {
             "name": "clefable",
             "link": "https://wiki.otpokemon.com/images/0/02/Min-clefable.png"
         },
-        "96": {
+        "107": {
             "name": "seel",
             "link": "https://wiki.otpokemon.com/images/5/56/Min-seel.png"
         },
-        "97": {
+        "108": {
             "name": "flareon",
             "link": "https://wiki.otpokemon.com/images/6/61/Min-flareon.png"
         },
-        "98": {
+        "109": {
+            "name": "vulpix",
+            "link": "https://wiki.otpokemon.com/images/8/8d/Vulpix.png"
+        },
+        "110": {
             "name": "dewgong",
             "link": "https://wiki.otpokemon.com/images/f/f2/Min-dewgong.png"
         },
-        "99": {
+        "111": {
             "name": "porygon",
             "link": "https://wiki.otpokemon.com/images/c/ce/Min-porygon.png"
         },
-        "100": {
+        "112": {
             "name": "ninetales",
             "link": "https://wiki.otpokemon.com/images/6/6b/Min-ninetales.png"
         },
-        "101": {
+        "113": {
+            "name": "grimer",
+            "link": "https://wiki.otpokemon.com/images/d/d7/Grimer.png"
+        },
+        "114": {
             "name": "omanyte",
             "link": "https://wiki.otpokemon.com/images/7/73/Min-omanyte.png"
         },
-        "102": {
+        "115": {
             "name": "jigglypuff",
             "link": "https://wiki.otpokemon.com/images/9/90/Min-jigglypuff.png"
         },
-        "103": {
+        "116": {
+            "name": "muk",
+            "link": "https://wiki.otpokemon.com/images/8/8e/Muk.png"
+        },
+        "117": {
             "name": "omastar",
             "link": "https://wiki.otpokemon.com/images/1/17/Min-omastar.png"
         },
-        "104": {
+        "118": {
             "name": "wigglytuff",
             "link": "https://wiki.otpokemon.com/images/7/74/Min-wigglytuff.png"
         },
-        "105": {
+        "119": {
             "name": "shellder",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-shellder.png"
         },
-        "106": {
+        "120": {
             "name": "kabuto",
             "link": "https://wiki.otpokemon.com/images/8/84/Min-kabuto.png"
         },
-        "107": {
+        "121": {
+            "name": "zubat",
+            "link": "https://wiki.otpokemon.com/images/6/67/Zubat.png"
+        },
+        "122": {
             "name": "cloyster",
             "link": "https://wiki.otpokemon.com/images/0/03/Min-cloyster.png"
         },
-        "108": {
+        "123": {
             "name": "kabutops",
             "link": "https://wiki.otpokemon.com/images/e/e5/Min-kabutops.png"
         },
-        "109": {
+        "124": {
             "name": "golbat",
             "link": "https://wiki.otpokemon.com/images/2/2e/Min-golbat.png"
         },
-        "110": {
+        "125": {
             "name": "gastly",
             "link": "https://wiki.otpokemon.com/images/a/a3/Min-gastly.png"
         },
-        "111": {
+        "126": {
             "name": "aerodactyl",
             "link": "https://wiki.otpokemon.com/images/4/40/Min-aerodactyl.png"
         },
-        "112": {
+        "127": {
             "name": "oddish",
             "link": "https://wiki.otpokemon.com/images/a/a0/Min-oddish.png"
         },
-        "113": {
+        "128": {
+            "name": "haunter",
+            "link": "https://wiki.otpokemon.com/images/4/41/Haunter.png"
+        },
+        "129": {
             "name": "snorlax",
             "link": "https://wiki.otpokemon.com/images/c/c8/Min-snorlax.png"
         },
-        "114": {
+        "130": {
+            "name": "gloom",
+            "link": "https://wiki.otpokemon.com/images/5/59/Gloom.png"
+        },
+        "131": {
+            "name": "gengar",
+            "link": "https://wiki.otpokemon.com/images/f/f8/Gengar.png"
+        },
+        "132": {
             "name": "articuno",
             "link": "https://wiki.otpokemon.com/images/d/df/Min-articuno.png"
         },
-        "115": {
+        "133": {
             "name": "vileplume",
             "link": "https://wiki.otpokemon.com/images/e/e9/Min-vileplume.png"
         },
-        "116": {
+        "134": {
             "name": "onix",
             "link": "https://wiki.otpokemon.com/images/1/18/Min-onix.png"
         },
-        "117": {
-            "name": "Zapdos",
+        "135": {
+            "name": "zapdos",
             "link": "https://wiki.otpokemon.com/images/8/88/Min-Zapdos.png"
         },
-        "118": {
+        "136": {
             "name": "paras",
             "link": "https://wiki.otpokemon.com/images/a/a1/Min-paras.png"
         },
-        "119": {
+        "137": {
             "name": "drowzee",
             "link": "https://wiki.otpokemon.com/images/d/dc/Min-drowzee.png"
         },
-        "120": {
+        "138": {
             "name": "moltres",
             "link": "https://wiki.otpokemon.com/images/d/d8/Min-moltres.png"
         },
-        "121": {
+        "139": {
             "name": "parasect",
             "link": "https://wiki.otpokemon.com/images/1/1b/Min-parasect.png"
         },
-        "122": {
+        "140": {
             "name": "hypno",
             "link": "https://wiki.otpokemon.com/images/a/a8/Min-hypno.png"
         },
-        "123": {
+        "141": {
+            "name": "dratini",
+            "link": "https://wiki.otpokemon.com/images/9/99/Dratini.png"
+        },
+        "142": {
             "name": "venonat",
             "link": "https://wiki.otpokemon.com/images/f/fd/Min-venonat.png"
         },
-        "124": {
+        "143": {
             "name": "krabby",
             "link": "https://wiki.otpokemon.com/images/e/e2/Min-krabby.png"
         },
-        "125": {
+        "144": {
             "name": "dragonair",
             "link": "https://wiki.otpokemon.com/images/e/e2/Min-dragonair.png"
         },
-        "126": {
+        "145": {
             "name": "venomoth",
             "link": "https://wiki.otpokemon.com/images/7/7b/Min-venomoth.png"
         },
-        "127": {
+        "146": {
             "name": "kingler",
             "link": "https://wiki.otpokemon.com/images/1/1b/Min-kingler.png"
         },
-        "128": {
+        "147": {
             "name": "dragonite",
             "link": "https://wiki.otpokemon.com/images/8/8f/Min-dragonite.png"
         },
-        "129": {
+        "148": {
             "name": "diglett",
             "link": "https://wiki.otpokemon.com/images/3/35/Min-diglett.png"
         },
-        "130": {
+        "149": {
             "name": "voltorb",
             "link": "https://wiki.otpokemon.com/images/5/53/Min-voltorb.png"
         },
-        "131": {
+        "150": {
             "name": "mewtwo",
             "link": "https://wiki.otpokemon.com/images/a/af/Min-mewtwo.png"
         },
-        "132": {
+        "151": {
+            "name": "mew",
+            "link": "https://wiki.otpokemon.com/images/b/bf/Mew.png"
+        },
+        "152": {
             "name": "chikorita",
             "link": "https://wiki.otpokemon.com/images/f/fc/Min-chikorita.png"
         },
-        "133": {
+        "153": {
             "name": "sudowoodo",
             "link": "https://wiki.otpokemon.com/images/4/4e/Min-sudowoodo.png"
         },
-        "134": {
+        "154": {
             "name": "slugma",
             "link": "https://wiki.otpokemon.com/images/a/ac/Min-slugma.png"
         },
-        "135": {
+        "155": {
             "name": "bayleef",
             "link": "https://wiki.otpokemon.com/images/9/98/Min-bayleef.png"
         },
-        "136": {
+        "156": {
             "name": "politoed",
             "link": "https://wiki.otpokemon.com/images/9/9a/Min-politoed.png"
         },
-        "137": {
+        "157": {
             "name": "magcargo",
             "link": "https://wiki.otpokemon.com/images/1/1f/Min-magcargo.png"
         },
-        "138": {
+        "158": {
             "name": "meganium",
             "link": "https://wiki.otpokemon.com/images/7/72/Min-meganium.png"
         },
-        "139": {
+        "159": {
             "name": "hoppip",
             "link": "https://wiki.otpokemon.com/images/d/db/Min-hoppip.png"
         },
-        "140": {
+        "160": {
             "name": "swinub",
             "link": "https://wiki.otpokemon.com/images/e/e5/Min-swinub.png"
         },
-        "141": {
+        "161": {
             "name": "cyndaquil",
             "link": "https://wiki.otpokemon.com/images/6/6b/Min-cyndaquil.png"
         },
-        "142": {
+        "162": {
             "name": "skiploom",
             "link": "https://wiki.otpokemon.com/images/6/67/Min-skiploom.png"
         },
-        "143": {
+        "163": {
             "name": "piloswine",
             "link": "https://wiki.otpokemon.com/images/8/8a/Min-piloswine.png"
         },
-        "144": {
+        "164": {
             "name": "quilava",
             "link": "https://wiki.otpokemon.com/images/5/56/Min-quilava.png"
         },
-        "145": {
+        "165": {
             "name": "jumpluff",
             "link": "https://wiki.otpokemon.com/images/2/2e/Min-jumpluff.png"
         },
-        "146": {
+        "166": {
             "name": "corsola",
             "link": "https://wiki.otpokemon.com/images/b/be/Min-corsola.png"
         },
-        "147": {
+        "167": {
             "name": "typhlosion",
             "link": "https://wiki.otpokemon.com/images/4/47/Min-typhlosion.png"
         },
-        "148": {
+        "168": {
             "name": "aipom",
             "link": "https://wiki.otpokemon.com/images/4/4f/Min-aipom.png"
         },
-        "149": {
+        "169": {
             "name": "remoraid",
             "link": "https://wiki.otpokemon.com/images/7/7b/Min-remoraid.png"
         },
-        "150": {
+        "170": {
             "name": "totodile",
             "link": "https://wiki.otpokemon.com/images/f/f0/Min-totodile.png"
         },
-        "151": {
+        "171": {
             "name": "sunkern",
             "link": "https://wiki.otpokemon.com/images/e/e0/Min-sunkern.png"
         },
-        "152": {
+        "172": {
             "name": "octillery",
             "link": "https://wiki.otpokemon.com/images/e/eb/Min-octillery.png"
         },
-        "153": {
+        "173": {
             "name": "croconaw",
             "link": "https://wiki.otpokemon.com/images/c/c6/Min-croconaw.png"
         },
-        "154": {
+        "174": {
             "name": "sunflora",
             "link": "https://wiki.otpokemon.com/images/1/18/Min-sunflora.png"
         },
-        "155": {
+        "175": {
             "name": "delibird",
             "link": "https://wiki.otpokemon.com/images/d/db/Min-delibird.png"
         },
-        "156": {
+        "176": {
             "name": "feraligatr",
             "link": "https://wiki.otpokemon.com/images/3/30/Min-feraligatr.png"
         },
-        "157": {
+        "177": {
             "name": "yanma",
             "link": "https://wiki.otpokemon.com/images/7/7d/Min-yanma.png"
         },
-        "158": {
+        "178": {
             "name": "mantine",
             "link": "https://wiki.otpokemon.com/images/7/75/Min-mantine.png"
         },
-        "159": {
+        "179": {
             "name": "sentret",
             "link": "https://wiki.otpokemon.com/images/a/a5/Min-sentret.png"
         },
-        "160": {
+        "180": {
             "name": "wooper",
             "link": "https://wiki.otpokemon.com/images/d/d3/Min-wooper.png"
         },
-        "161": {
+        "181": {
             "name": "skarmory",
             "link": "https://wiki.otpokemon.com/images/e/ea/Min-skarmory.png"
         },
-        "162": {
+        "182": {
             "name": "furret",
             "link": "https://wiki.otpokemon.com/images/7/7e/Min-furret.png"
         },
-        "163": {
+        "183": {
             "name": "quagsire",
             "link": "https://wiki.otpokemon.com/images/9/97/Min-quagsire.png"
         },
-        "164": {
+        "184": {
             "name": "houndour",
             "link": "https://wiki.otpokemon.com/images/7/75/Min-houndour.png"
         },
-        "165": {
+        "185": {
             "name": "hoothoot",
             "link": "https://wiki.otpokemon.com/images/0/06/Min-hoothoot.png"
         },
-        "166": {
+        "186": {
             "name": "espeon",
             "link": "https://wiki.otpokemon.com/images/a/ad/Min-espeon.png"
         },
-        "167": {
+        "187": {
             "name": "houndoom",
             "link": "https://wiki.otpokemon.com/images/e/e9/Min-houndoom.png"
         },
-        "168": {
+        "188": {
             "name": "noctowl",
             "link": "https://wiki.otpokemon.com/images/c/c9/Min-noctowl.png"
         },
-        "169": {
+        "189": {
             "name": "umbreon",
             "link": "https://wiki.otpokemon.com/images/2/23/Min-umbreon.png"
         },
-        "170": {
+        "190": {
             "name": "kingdra",
             "link": "https://wiki.otpokemon.com/images/8/84/Min-kingdra.png"
         },
-        "171": {
+        "191": {
             "name": "ledyba",
             "link": "https://wiki.otpokemon.com/images/1/1f/Min-ledyba.png"
         },
-        "172": {
+        "192": {
             "name": "murkrow",
             "link": "https://wiki.otpokemon.com/images/4/40/Min-murkrow.png"
         },
-        "173": {
+        "193": {
             "name": "phanpy",
             "link": "https://wiki.otpokemon.com/images/a/a6/Min-phanpy.png"
         },
-        "174": {
+        "194": {
             "name": "ledian",
             "link": "https://wiki.otpokemon.com/images/9/95/Min-ledian.png"
         },
-        "175": {
+        "195": {
             "name": "slowking",
             "link": "https://wiki.otpokemon.com/images/8/82/Min-slowking.png"
         },
-        "176": {
+        "196": {
             "name": "donphan",
             "link": "https://wiki.otpokemon.com/images/3/33/Min-donphan.png"
         },
-        "177": {
+        "197": {
             "name": "spinarak",
             "link": "https://wiki.otpokemon.com/images/6/64/Min-spinarak.png"
         },
-        "178": {
+        "198": {
             "name": "misdreavus",
             "link": "https://wiki.otpokemon.com/images/4/4c/Min-misdreavus.png"
         },
-        "179": {
+        "199": {
             "name": "porygon2",
             "link": "https://wiki.otpokemon.com/images/8/88/Min-porygon2.png"
         },
-        "180": {
+        "200": {
             "name": "ariados",
             "link": "https://wiki.otpokemon.com/images/7/7a/Min-ariados.png"
         },
-        "181": {
+        "201": {
             "name": "unown",
             "link": "https://wiki.otpokemon.com/images/9/98/Min-unown.png"
         },
-        "182": {
+        "202": {
             "name": "stantler",
             "link": "https://wiki.otpokemon.com/images/0/01/Min-stantler.png"
         },
-        "183": {
+        "203": {
             "name": "crobat",
             "link": "https://wiki.otpokemon.com/images/c/c5/Min-crobat.png"
         },
-        "184": {
+        "204": {
             "name": "wobbuffet",
             "link": "https://wiki.otpokemon.com/images/c/cd/Min-wobbuffet.png"
         },
-        "185": {
+        "205": {
             "name": "smeargle",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-smeargle.png"
         },
-        "186": {
+        "206": {
             "name": "chinchou",
             "link": "https://wiki.otpokemon.com/images/0/0b/Min-chinchou.png"
         },
-        "187": {
+        "207": {
             "name": "girafarig",
             "link": "https://wiki.otpokemon.com/images/9/93/Min-girafarig.png"
         },
-        "188": {
+        "208": {
             "name": "tyrogue",
             "link": "https://wiki.otpokemon.com/images/9/9b/Min-tyrogue.png"
         },
-        "189": {
+        "209": {
             "name": "lanturn",
             "link": "https://wiki.otpokemon.com/images/c/c3/Min-lanturn.png"
         },
-        "190": {
+        "210": {
             "name": "pineco",
             "link": "https://wiki.otpokemon.com/images/1/11/Min-pineco.png"
         },
-        "191": {
+        "211": {
             "name": "hitmontop",
             "link": "https://wiki.otpokemon.com/images/b/b1/Min-hitmontop.png"
         },
-        "192": {
+        "212": {
             "name": "pichu",
             "link": "https://wiki.otpokemon.com/images/c/c8/Min-pichu.png"
         },
-        "193": {
+        "213": {
             "name": "forretress",
             "link": "https://wiki.otpokemon.com/images/1/16/Min-forretress.png"
         },
-        "194": {
+        "214": {
             "name": "smoochum",
             "link": "https://wiki.otpokemon.com/images/1/1f/Min-smoochum.png"
         },
-        "195": {
+        "215": {
             "name": "cleffa",
             "link": "https://wiki.otpokemon.com/images/e/ed/Min-cleffa.png"
         },
-        "196": {
+        "216": {
             "name": "dunsparce",
             "link": "https://wiki.otpokemon.com/images/7/75/Min-dunsparce.png"
         },
-        "197": {
+        "217": {
             "name": "elekid",
             "link": "https://wiki.otpokemon.com/images/3/34/Min-elekid.png"
         },
-        "198": {
+        "218": {
             "name": "igglybuff",
             "link": "https://wiki.otpokemon.com/images/4/45/Min-igglybuff.png"
         },
-        "199": {
+        "219": {
             "name": "gligar",
             "link": "https://wiki.otpokemon.com/images/c/c4/Min-gligar.png"
         },
-        "200": {
+        "220": {
             "name": "magby",
             "link": "https://wiki.otpokemon.com/images/f/fe/Min-magby.png"
         },
-        "201": {
+        "221": {
             "name": "togepi",
             "link": "https://wiki.otpokemon.com/images/8/8e/Min-togepi.png"
         },
-        "202": {
+        "222": {
             "name": "steelix",
             "link": "https://wiki.otpokemon.com/images/2/29/Min-steelix.png"
         },
-        "203": {
+        "223": {
             "name": "miltank",
             "link": "https://wiki.otpokemon.com/images/8/8a/Min-miltank.png"
         },
-        "204": {
+        "224": {
             "name": "togetic",
             "link": "https://wiki.otpokemon.com/images/2/21/Min-togetic.png"
         },
-        "205": {
+        "225": {
             "name": "snubbull",
             "link": "https://wiki.otpokemon.com/images/0/03/Min-snubbull.png"
         },
-        "206": {
+        "226": {
             "name": "blissey",
             "link": "https://wiki.otpokemon.com/images/3/3e/Min-blissey.png"
         },
-        "207": {
+        "227": {
             "name": "natu",
             "link": "https://wiki.otpokemon.com/images/d/dc/Min-natu.png"
         },
-        "208": {
+        "228": {
             "name": "granbull",
             "link": "https://wiki.otpokemon.com/images/6/63/Min-granbull.png"
         },
-        "209": {
+        "229": {
             "name": "raikou",
             "link": "https://wiki.otpokemon.com/images/8/8d/Min-raikou.png"
         },
-        "210": {
+        "230": {
             "name": "xatu",
             "link": "https://wiki.otpokemon.com/images/0/0b/Min-xatu.png"
         },
-        "211": {
+        "231": {
             "name": "qwilfish",
             "link": "https://wiki.otpokemon.com/images/3/34/Min-qwilfish.png"
         },
-        "212": {
+        "232": {
             "name": "entei",
             "link": "https://wiki.otpokemon.com/images/c/c9/Min-entei.png"
         },
-        "213": {
+        "233": {
             "name": "mareep",
             "link": "https://wiki.otpokemon.com/images/d/d3/Min-mareep.png"
         },
-        "214": {
+        "234": {
             "name": "scizor",
             "link": "https://wiki.otpokemon.com/images/6/64/Min-scizor.png"
         },
-        "215": {
+        "235": {
             "name": "suicune",
             "link": "https://wiki.otpokemon.com/images/3/3e/Min-suicune.png"
         },
-        "216": {
+        "236": {
             "name": "flaaffy",
             "link": "https://wiki.otpokemon.com/images/0/02/Min-flaaffy.png"
         },
-        "217": {
+        "237": {
             "name": "shuckle",
             "link": "https://wiki.otpokemon.com/images/6/69/Min-shuckle.png"
         },
-        "218": {
+        "238": {
             "name": "larvitar",
             "link": "https://wiki.otpokemon.com/images/6/6f/Min-larvitar.png"
         },
-        "219": {
+        "239": {
             "name": "ampharos",
             "link": "https://wiki.otpokemon.com/images/1/15/Min-ampharos.png"
         },
-        "220": {
+        "240": {
             "name": "heracross",
             "link": "https://wiki.otpokemon.com/images/a/ad/Min-heracross.png"
         },
-        "221": {
+        "241": {
             "name": "pupitar",
             "link": "https://wiki.otpokemon.com/images/9/9e/Min-pupitar.png"
         },
-        "222": {
+        "242": {
             "name": "bellossom",
             "link": "https://wiki.otpokemon.com/images/d/d5/Min-bellossom.png"
         },
-        "223": {
+        "243": {
             "name": "sneasel",
             "link": "https://wiki.otpokemon.com/images/0/0a/Min-sneasel.png"
         },
-        "224": {
+        "244": {
             "name": "tyranitar",
             "link": "https://wiki.otpokemon.com/images/7/79/Min-tyranitar.png"
         },
-        "225": {
+        "245": {
             "name": "marill",
             "link": "https://wiki.otpokemon.com/images/a/a2/Min-marill.png"
         },
-        "226": {
+        "246": {
             "name": "teddiursa",
             "link": "https://wiki.otpokemon.com/images/0/07/Min-teddiursa.png"
         },
-        "227": {
+        "247": {
             "name": "lugia",
             "link": "https://wiki.otpokemon.com/images/0/05/Min-lugia.png"
         },
-        "228": {
+        "248": {
             "name": "azumarill",
             "link": "https://wiki.otpokemon.com/images/9/98/Min-azumarill.png"
         },
-        "229": {
+        "249": {
             "name": "ursaring",
             "link": "https://wiki.otpokemon.com/images/d/da/Min-ursaring.png"
         },
-        "230": {
+        "250": {
             "name": "ho-oh",
             "link": "https://wiki.otpokemon.com/images/7/75/Min-ho-oh.png"
         },
-        "231": {
+        "251": {
             "name": "celebi",
             "link": "https://wiki.otpokemon.com/images/c/cd/Min-celebi.png"
         },
-        "232": {
+        "252": {
             "name": "treecko",
             "link": "https://wiki.otpokemon.com/images/0/05/Min-treecko.png"
         },
-        "233": {
+        "253": {
             "name": "hariyama",
             "link": "https://wiki.otpokemon.com/images/1/13/Min-hariyama.png"
         },
-        "234": {
+        "254": {
             "name": "crawdaunt",
             "link": "https://wiki.otpokemon.com/images/2/2a/Min-crawdaunt.png"
         },
-        "235": {
+        "255": {
             "name": "grovyle",
             "link": "https://wiki.otpokemon.com/images/3/3f/Min-grovyle.png"
         },
-        "236": {
+        "256": {
             "name": "azurill",
             "link": "https://wiki.otpokemon.com/images/a/ad/Min-azurill.png"
         },
-        "237": {
+        "257": {
             "name": "baltoy",
             "link": "https://wiki.otpokemon.com/images/7/74/Min-baltoy.png"
         },
-        "238": {
+        "258": {
             "name": "sceptile",
             "link": "https://wiki.otpokemon.com/images/5/52/Min-sceptile.png"
         },
-        "239": {
+        "259": {
             "name": "nosepass",
             "link": "https://wiki.otpokemon.com/images/7/7b/Min-nosepass.png"
         },
-        "240": {
+        "260": {
             "name": "claydol",
             "link": "https://wiki.otpokemon.com/images/0/0d/Min-claydol.png"
         },
-        "241": {
+        "261": {
             "name": "torchic",
             "link": "https://wiki.otpokemon.com/images/9/96/Min-torchic.png"
         },
-        "242": {
+        "262": {
             "name": "skitty",
             "link": "https://wiki.otpokemon.com/images/c/c6/Min-skitty.png"
         },
-        "243": {
+        "263": {
             "name": "lileep",
             "link": "https://wiki.otpokemon.com/images/0/03/Min-lileep.png"
         },
-        "244": {
+        "264": {
             "name": "combusken",
             "link": "https://wiki.otpokemon.com/images/b/b9/Min-combusken.png"
         },
-        "245": {
+        "265": {
             "name": "delcatty",
             "link": "https://wiki.otpokemon.com/images/e/e4/Min-delcatty.png"
         },
-        "246": {
+        "266": {
             "name": "cradily",
             "link": "https://wiki.otpokemon.com/images/0/06/Min-cradily.png"
         },
-        "247": {
+        "267": {
             "name": "blaziken",
             "link": "https://wiki.otpokemon.com/images/f/fd/Min-blaziken.png"
         },
-        "248": {
+        "268": {
             "name": "sableye",
             "link": "https://wiki.otpokemon.com/images/6/61/Min-sableye.png"
         },
-        "249": {
+        "269": {
             "name": "anorith",
             "link": "https://wiki.otpokemon.com/images/7/73/Min-anorith.png"
         },
-        "250": {
+        "270": {
             "name": "mudkip",
             "link": "https://wiki.otpokemon.com/images/c/c2/Min-mudkip.png"
         },
-        "251": {
+        "271": {
             "name": "mawile",
             "link": "https://wiki.otpokemon.com/images/7/79/Min-mawile.png"
         },
-        "252": {
+        "272": {
             "name": "armaldo",
             "link": "https://wiki.otpokemon.com/images/9/9c/Min-armaldo.png"
         },
-        "253": {
+        "273": {
             "name": "marshtomp",
             "link": "https://wiki.otpokemon.com/images/4/4b/Min-marshtomp.png"
         },
-        "254": {
+        "274": {
             "name": "aron",
             "link": "https://wiki.otpokemon.com/images/1/1f/Min-aron.png"
         },
-        "255": {
+        "275": {
             "name": "feebas",
             "link": "https://wiki.otpokemon.com/images/b/b9/Min-feebas.png"
         },
-        "256": {
+        "276": {
             "name": "swampert",
             "link": "https://wiki.otpokemon.com/images/5/5e/Min-swampert.png"
         },
-        "257": {
+        "277": {
             "name": "lairon",
             "link": "https://wiki.otpokemon.com/images/b/b1/Min-lairon.png"
         },
-        "258": {
+        "278": {
             "name": "milotic",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-milotic.png"
         },
-        "259": {
+        "279": {
             "name": "poochyena",
             "link": "https://wiki.otpokemon.com/images/d/d7/Min-poochyena.png"
         },
-        "260": {
+        "280": {
             "name": "aggron",
             "link": "https://wiki.otpokemon.com/images/c/c1/Min-aggron.png"
         },
-        "261": {
+        "281": {
             "name": "castform",
             "link": "https://wiki.otpokemon.com/images/e/e1/Min-castform.png"
         },
-        "262": {
+        "282": {
             "name": "mightyena",
             "link": "https://wiki.otpokemon.com/images/a/a2/Min-mightyena.png"
         },
-        "263": {
+        "283": {
             "name": "meditite",
             "link": "https://wiki.otpokemon.com/images/e/e0/Min-meditite.png"
         },
-        "264": {
+        "284": {
             "name": "kecleon",
             "link": "https://wiki.otpokemon.com/images/0/0a/Min-kecleon.png"
         },
-        "265": {
+        "285": {
             "name": "zigzagoon",
             "link": "https://wiki.otpokemon.com/images/7/75/Min-zigzagoon.png"
         },
-        "266": {
+        "286": {
             "name": "medicham",
             "link": "https://wiki.otpokemon.com/images/a/a8/Min-medicham.png"
         },
-        "267": {
+        "287": {
             "name": "shuppet",
             "link": "https://wiki.otpokemon.com/images/5/51/Min-shuppet.png"
         },
-        "268": {
+        "288": {
+            "name": "linoone",
+            "link": "https://wiki.otpokemon.com/images/b/b5/Linoone.png"
+        },
+        "289": {
+            "name": "electrike",
+            "link": "https://wiki.otpokemon.com/images/0/07/Electrike.png"
+        },
+        "290": {
             "name": "banette",
             "link": "https://wiki.otpokemon.com/images/0/01/Min-banette.png"
         },
-        "269": {
+        "291": {
             "name": "wurmple",
             "link": "https://wiki.otpokemon.com/images/a/a5/Min-wurmple.png"
         },
-        "270": {
+        "292": {
             "name": "manectric",
             "link": "https://wiki.otpokemon.com/images/b/bc/Min-manectric.png"
         },
-        "271": {
+        "293": {
             "name": "duskull",
             "link": "https://wiki.otpokemon.com/images/d/dc/Min-duskull.png"
         },
-        "272": {
+        "294": {
             "name": "silcoon",
             "link": "https://wiki.otpokemon.com/images/d/d7/Min-silcoon.png"
         },
-        "273": {
+        "295": {
             "name": "plusle",
             "link": "https://wiki.otpokemon.com/images/c/c6/Min-plusle.png"
         },
-        "274": {
+        "296": {
             "name": "dusclops",
             "link": "https://wiki.otpokemon.com/images/8/87/Min-dusclops.png"
         },
-        "275": {
+        "297": {
             "name": "beautifly",
             "link": "https://wiki.otpokemon.com/images/2/28/Min-beautifly.png"
         },
-        "276": {
+        "298": {
             "name": "minun",
             "link": "https://wiki.otpokemon.com/images/2/2d/Min-minun.png"
         },
-        "277": {
+        "299": {
             "name": "tropius",
             "link": "https://wiki.otpokemon.com/images/0/02/Min-tropius.png"
         },
-        "278": {
+        "300": {
             "name": "cascoon",
             "link": "https://wiki.otpokemon.com/images/c/ca/Min-cascoon.png"
         },
-        "279": {
+        "301": {
             "name": "volbeat",
             "link": "https://wiki.otpokemon.com/images/4/4f/Min-volbeat.png"
         },
-        "280": {
+        "302": {
             "name": "chimecho",
             "link": "https://wiki.otpokemon.com/images/d/d0/Min-chimecho.png"
         },
-        "281": {
+        "303": {
             "name": "dustox",
             "link": "https://wiki.otpokemon.com/images/a/af/Min-dustox.png"
         },
-        "282": {
+        "304": {
             "name": "illumise",
             "link": "https://wiki.otpokemon.com/images/5/56/Min-illumise.png"
         },
-        "283": {
+        "305": {
             "name": "absol",
             "link": "https://wiki.otpokemon.com/images/5/5a/Min-absol.png"
         },
-        "284": {
+        "306": {
             "name": "lotad",
             "link": "https://wiki.otpokemon.com/images/3/33/Min-lotad.png"
         },
-        "285": {
+        "307": {
             "name": "roselia",
             "link": "https://wiki.otpokemon.com/images/c/cf/Min-roselia.png"
         },
-        "286": {
+        "308": {
             "name": "wynaut",
             "link": "https://wiki.otpokemon.com/images/0/01/Min-wynaut.png"
         },
-        "287": {
+        "309": {
             "name": "lombre",
             "link": "https://wiki.otpokemon.com/images/1/15/Min-lombre.png"
         },
-        "288": {
+        "310": {
             "name": "gulpin",
             "link": "https://wiki.otpokemon.com/images/e/e9/Min-gulpin.png"
         },
-        "289": {
+        "311": {
             "name": "snorunt",
             "link": "https://wiki.otpokemon.com/images/d/df/Min-snorunt.png"
         },
-        "290": {
+        "312": {
             "name": "swalot",
             "link": "https://wiki.otpokemon.com/images/6/69/Min-swalot.png"
         },
-        "291": {
+        "313": {
             "name": "glalie",
             "link": "https://wiki.otpokemon.com/images/a/ac/Min-glalie.png"
         },
-        "292": {
+        "314": {
             "name": "seedot",
             "link": "https://wiki.otpokemon.com/images/9/99/Min-seedot.png"
         },
-        "293": {
+        "315": {
             "name": "carvanha",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-carvanha.png"
         },
-        "294": {
+        "316": {
             "name": "spheal",
             "link": "https://wiki.otpokemon.com/images/c/c2/Min-spheal.png"
         },
-        "295": {
+        "317": {
             "name": "nuzleaf",
             "link": "https://wiki.otpokemon.com/images/4/49/Min-nuzleaf.png"
         },
-        "296": {
+        "318": {
             "name": "sharpedo",
             "link": "https://wiki.otpokemon.com/images/3/32/Min-sharpedo.png"
         },
-        "297": {
+        "319": {
             "name": "sealeo",
             "link": "https://wiki.otpokemon.com/images/1/13/Min-sealeo.png"
         },
-        "298": {
+        "320": {
+            "name": "shiftry",
+            "link": "https://wiki.otpokemon.com/images/9/99/Shiftry.png"
+        },
+        "321": {
             "name": "wailmer",
             "link": "https://wiki.otpokemon.com/images/3/39/Min-wailmer.png"
         },
-        "299": {
+        "322": {
             "name": "walrein",
             "link": "https://wiki.otpokemon.com/images/0/0c/Min-walrein.png"
         },
-        "300": {
+        "323": {
             "name": "taillow",
             "link": "https://wiki.otpokemon.com/images/f/fa/Min-taillow.png"
         },
-        "301": {
+        "324": {
             "name": "wailord",
             "link": "https://wiki.otpokemon.com/images/9/94/Min-wailord.png"
         },
-        "302": {
+        "325": {
             "name": "clamperl",
             "link": "https://wiki.otpokemon.com/images/6/66/Min-clamperl.png"
         },
-        "303": {
+        "326": {
             "name": "swellow",
             "link": "https://wiki.otpokemon.com/images/3/3b/Min-swellow.png"
         },
-        "304": {
+        "327": {
             "name": "numel",
             "link": "https://wiki.otpokemon.com/images/6/6e/Min-numel.png"
         },
-        "305": {
+        "328": {
             "name": "huntail",
             "link": "https://wiki.otpokemon.com/images/0/08/Min-huntail.png"
         },
-        "306": {
+        "329": {
             "name": "wingull",
             "link": "https://wiki.otpokemon.com/images/b/b8/Min-wingull.png"
         },
-        "307": {
+        "330": {
             "name": "camerupt",
             "link": "https://wiki.otpokemon.com/images/3/37/Min-camerupt.png"
         },
-        "308": {
+        "331": {
             "name": "gorebyss",
             "link": "https://wiki.otpokemon.com/images/5/5e/Min-gorebyss.png"
         },
-        "309": {
+        "332": {
             "name": "pelipper",
             "link": "https://wiki.otpokemon.com/images/f/f6/Min-pelipper.png"
         },
-        "310": {
+        "333": {
             "name": "torkoal",
             "link": "https://wiki.otpokemon.com/images/3/31/Min-torkoal.png"
         },
-        "311": {
+        "334": {
             "name": "relicanth",
             "link": "https://wiki.otpokemon.com/images/c/c8/Min-relicanth.png"
         },
-        "312": {
+        "335": {
             "name": "ralts",
             "link": "https://wiki.otpokemon.com/images/9/9f/Min-ralts.png"
         },
-        "313": {
+        "336": {
             "name": "spoink",
             "link": "https://wiki.otpokemon.com/images/c/c4/Min-spoink.png"
         },
-        "314": {
+        "337": {
             "name": "luvdisc",
             "link": "https://wiki.otpokemon.com/images/b/b5/Min-luvdisc.png"
         },
-        "315": {
+        "338": {
             "name": "kirlia",
             "link": "https://wiki.otpokemon.com/images/b/bb/Min-kirlia.png"
         },
-        "316": {
+        "339": {
             "name": "grumpig",
             "link": "https://wiki.otpokemon.com/images/f/f8/Min-grumpig.png"
         },
-        "317": {
+        "340": {
             "name": "bagon",
             "link": "https://wiki.otpokemon.com/images/3/32/Min-bagon.png"
         },
-        "318": {
+        "341": {
             "name": "gardevoir",
             "link": "https://wiki.otpokemon.com/images/d/db/Min-gardevoir.png"
         },
-        "319": {
+        "342": {
             "name": "spinda",
             "link": "https://wiki.otpokemon.com/images/9/9b/Min-spinda.png"
         },
-        "320": {
+        "343": {
             "name": "shelgon",
             "link": "https://wiki.otpokemon.com/images/f/f0/Min-shelgon.png"
         },
-        "321": {
+        "344": {
             "name": "surskit",
             "link": "https://wiki.otpokemon.com/images/4/43/Min-surskit.png"
         },
-        "322": {
+        "345": {
             "name": "trapinch",
             "link": "https://wiki.otpokemon.com/images/9/96/Min-trapinch.png"
         },
-        "323": {
+        "346": {
             "name": "salamence",
             "link": "https://wiki.otpokemon.com/images/1/1b/Min-salamence.png"
         },
-        "324": {
+        "347": {
             "name": "masquerain",
             "link": "https://wiki.otpokemon.com/images/2/2a/Min-masquerain.png"
         },
-        "325": {
+        "348": {
+            "name": "vibrava",
+            "link": "https://wiki.otpokemon.com/images/1/13/Vibrava.png"
+        },
+        "349": {
             "name": "beldum",
             "link": "https://wiki.otpokemon.com/images/1/1b/Min-beldum.png"
         },
-        "326": {
+        "350": {
             "name": "shroomish",
             "link": "https://wiki.otpokemon.com/images/0/00/Min-shroomish.png"
         },
-        "327": {
+        "351": {
             "name": "flygon",
             "link": "https://wiki.otpokemon.com/images/f/f4/Min-flygon.png"
         },
-        "328": {
+        "352": {
             "name": "metang",
             "link": "https://wiki.otpokemon.com/images/2/26/Min-metang.png"
         },
-        "329": {
+        "353": {
             "name": "breloom",
             "link": "https://wiki.otpokemon.com/images/9/9f/Min-breloom.png"
         },
-        "330": {
+        "354": {
             "name": "cacnea",
             "link": "https://wiki.otpokemon.com/images/f/f3/Min-cacnea.png"
         },
-        "331": {
+        "355": {
             "name": "metagross",
             "link": "https://wiki.otpokemon.com/images/7/72/Min-metagross.png"
         },
-        "332": {
+        "356": {
             "name": "slakoth",
             "link": "https://wiki.otpokemon.com/images/4/4c/Min-slakoth.png"
         },
-        "333": {
+        "357": {
+            "name": "cacturne",
+            "link": "https://wiki.otpokemon.com/images/e/ec/Cacturne.png"
+        },
+        "358": {
             "name": "regirock",
             "link": "https://wiki.otpokemon.com/images/c/c2/Min-regirock.png"
         },
-        "334": {
+        "359": {
             "name": "vigoroth",
             "link": "https://wiki.otpokemon.com/images/4/43/Min-vigoroth.png"
         },
-        "335": {
+        "360": {
             "name": "swablu",
             "link": "https://wiki.otpokemon.com/images/d/d0/Min-swablu.png"
         },
-        "336": {
+        "361": {
             "name": "regice",
             "link": "https://wiki.otpokemon.com/images/2/2e/Min-regice.png"
         },
-        "337": {
+        "362": {
+            "name": "slaking",
+            "link": "https://wiki.otpokemon.com/images/1/1c/Slaking.png"
+        },
+        "363": {
             "name": "altaria",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-altaria.png"
         },
-        "338": {
+        "364": {
             "name": "registeel",
             "link": "https://wiki.otpokemon.com/images/2/25/Min-registeel.png"
         },
-        "339": {
+        "365": {
+            "name": "nincada",
+            "link": "https://wiki.otpokemon.com/images/8/8e/Nincada.png"
+        },
+        "366": {
             "name": "zangoose",
             "link": "https://wiki.otpokemon.com/images/3/3a/Min-zangoose.png"
         },
-        "340": {
+        "367": {
             "name": "latias",
             "link": "https://wiki.otpokemon.com/images/f/f5/Min-latias.png"
         },
-        "341": {
+        "368": {
             "name": "ninjask",
             "link": "https://wiki.otpokemon.com/images/e/ef/Min-ninjask.png"
         },
-        "342": {
+        "369": {
             "name": "seviper",
             "link": "https://wiki.otpokemon.com/images/b/b1/Min-seviper.png"
         },
-        "343": {
+        "370": {
             "name": "latios",
             "link": "https://wiki.otpokemon.com/images/b/b4/Min-latios.png"
         },
-        "344": {
+        "371": {
             "name": "shedinja",
             "link": "https://wiki.otpokemon.com/images/c/c9/Min-shedinja.png"
         },
-        "345": {
+        "372": {
+            "name": "lunatone",
+            "link": "https://wiki.otpokemon.com/images/9/99/Lunatone.png"
+        },
+        "373": {
             "name": "kyogre",
             "link": "https://wiki.otpokemon.com/images/8/83/Min-kyogre.png"
         },
-        "346": {
+        "374": {
             "name": "whismur",
             "link": "https://wiki.otpokemon.com/images/5/57/Min-whismur.png"
         },
-        "347": {
+        "375": {
             "name": "solrock",
             "link": "https://wiki.otpokemon.com/images/4/48/Min-solrock.png"
         },
-        "348": {
+        "376": {
             "name": "groudon",
             "link": "https://wiki.otpokemon.com/images/8/87/Min-groudon.png"
         },
-        "349": {
+        "377": {
             "name": "loudred",
             "link": "https://wiki.otpokemon.com/images/a/ab/Min-loudred.png"
         },
-        "350": {
+        "378": {
             "name": "barboach",
             "link": "https://wiki.otpokemon.com/images/0/06/Min-barboach.png"
         },
-        "351": {
+        "379": {
             "name": "rayquaza",
             "link": "https://wiki.otpokemon.com/images/2/28/Min-rayquaza.png"
         },
-        "352": {
+        "380": {
             "name": "exploud",
             "link": "https://wiki.otpokemon.com/images/4/47/Min-exploud.png"
         },
-        "353": {
+        "381": {
             "name": "whiscash",
             "link": "https://wiki.otpokemon.com/images/2/2b/Min-whiscash.png"
         },
-        "354": {
+        "382": {
             "name": "jirachi",
             "link": "https://wiki.otpokemon.com/images/a/ad/Min-jirachi.png"
         },
-        "355": {
+        "383": {
             "name": "makuhita",
             "link": "https://wiki.otpokemon.com/images/4/4f/Min-makuhita.png"
         },
-        "356": {
+        "384": {
             "name": "corphish",
             "link": "https://wiki.otpokemon.com/images/7/78/Min-corphish.png"
         },
-        "357": {
+        "385": {
             "name": "deoxys-normal",
             "link": "https://wiki.otpokemon.com/images/f/fa/Min-deoxys-normal.png"
         },
-        "358": {
+        "386": {
             "name": "turtwig",
             "link": "https://wiki.otpokemon.com/images/f/ff/Min-turtwig.png"
         },
-        "359": {
+        "387": {
             "name": "gastrodon",
             "link": "https://wiki.otpokemon.com/images/0/08/Min-gastrodon.png"
         },
-        "360": {
+        "388": {
             "name": "snover",
             "link": "https://wiki.otpokemon.com/images/2/29/Min-snover.png"
         },
-        "361": {
+        "389": {
             "name": "grotle",
             "link": "https://wiki.otpokemon.com/images/3/3d/Min-grotle.png"
         },
-        "362": {
+        "390": {
             "name": "ambipom",
             "link": "https://wiki.otpokemon.com/images/3/38/Min-ambipom.png"
         },
-        "363": {
+        "391": {
             "name": "abomasnow",
             "link": "https://wiki.otpokemon.com/images/4/4b/Min-abomasnow.png"
         },
-        "364": {
+        "392": {
             "name": "torterra",
             "link": "https://wiki.otpokemon.com/images/0/04/Min-torterra.png"
         },
-        "365": {
+        "393": {
             "name": "drifloon",
             "link": "https://wiki.otpokemon.com/images/2/23/Min-drifloon.png"
         },
-        "366": {
+        "394": {
             "name": "weavile",
             "link": "https://wiki.otpokemon.com/images/1/17/Min-weavile.png"
         },
-        "367": {
+        "395": {
             "name": "chimchar",
             "link": "https://wiki.otpokemon.com/images/b/bc/Min-chimchar.png"
         },
-        "368": {
+        "396": {
             "name": "drifblim",
             "link": "https://wiki.otpokemon.com/images/5/5b/Min-drifblim.png"
         },
-        "369": {
+        "397": {
             "name": "magnezone",
             "link": "https://wiki.otpokemon.com/images/b/b7/Min-magnezone.png"
         },
-        "370": {
+        "398": {
             "name": "monferno",
             "link": "https://wiki.otpokemon.com/images/d/dc/Min-monferno.png"
         },
-        "371": {
+        "399": {
             "name": "buneary",
             "link": "https://wiki.otpokemon.com/images/3/3b/Min-buneary.png"
         },
-        "372": {
+        "400": {
             "name": "lickilicky",
             "link": "https://wiki.otpokemon.com/images/2/2c/Min-lickilicky.png"
         },
-        "373": {
+        "401": {
             "name": "infernape",
             "link": "https://wiki.otpokemon.com/images/e/e3/Min-infernape.png"
         },
-        "374": {
+        "402": {
+            "name": "lopunny",
+            "link": "https://wiki.otpokemon.com/images/0/06/Lopunny.png"
+        },
+        "403": {
             "name": "rhyperior",
             "link": "https://wiki.otpokemon.com/images/1/11/Min-rhyperior.png"
         },
-        "375": {
+        "404": {
             "name": "piplup",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-piplup.png"
         },
-        "376": {
+        "405": {
             "name": "mismagius",
             "link": "https://wiki.otpokemon.com/images/4/4e/Min-mismagius.png"
         },
-        "377": {
+        "406": {
             "name": "tangrowth",
             "link": "https://wiki.otpokemon.com/images/d/de/Min-tangrowth.png"
         },
-        "378": {
+        "407": {
             "name": "prinplup",
             "link": "https://wiki.otpokemon.com/images/5/53/Min-prinplup.png"
         },
-        "379": {
+        "408": {
             "name": "honchkrow",
             "link": "https://wiki.otpokemon.com/images/a/a0/Min-honchkrow.png"
         },
-        "380": {
+        "409": {
             "name": "electivire",
             "link": "https://wiki.otpokemon.com/images/b/bd/Min-electivire.png"
         },
-        "381": {
+        "410": {
             "name": "empoleon",
             "link": "https://wiki.otpokemon.com/images/6/69/Min-empoleon.png"
         },
-        "382": {
+        "411": {
             "name": "glameow",
             "link": "https://wiki.otpokemon.com/images/e/ec/Min-glameow.png"
         },
-        "383": {
+        "412": {
             "name": "magmortar",
             "link": "https://wiki.otpokemon.com/images/d/d4/Min-magmortar.png"
         },
-        "384": {
+        "413": {
             "name": "starly",
             "link": "https://wiki.otpokemon.com/images/0/08/Min-starly.png"
         },
-        "385": {
+        "414": {
             "name": "purugly",
             "link": "https://wiki.otpokemon.com/images/5/55/Min-purugly.png"
         },
-        "386": {
+        "415": {
             "name": "togekiss",
             "link": "https://wiki.otpokemon.com/images/f/fc/Min-togekiss.png"
         },
-        "387": {
+        "416": {
+            "name": "staravia",
+            "link": "https://wiki.otpokemon.com/images/d/df/Staravia.png"
+        },
+        "417": {
             "name": "chingling",
             "link": "https://wiki.otpokemon.com/images/5/5c/Min-chingling.png"
         },
-        "388": {
+        "418": {
             "name": "yanmega",
             "link": "https://wiki.otpokemon.com/images/9/98/Min-yanmega.png"
         },
-        "389": {
+        "419": {
             "name": "staraptor",
             "link": "https://wiki.otpokemon.com/images/8/85/Min-staraptor.png"
         },
-        "390": {
+        "420": {
             "name": "stunky",
             "link": "https://wiki.otpokemon.com/images/8/8f/Min-stunky.png"
         },
-        "391": {
+        "421": {
             "name": "leafeon",
             "link": "https://wiki.otpokemon.com/images/b/b7/Min-leafeon.png"
         },
-        "392": {
+        "422": {
             "name": "bidoof",
             "link": "https://wiki.otpokemon.com/images/a/af/Min-bidoof.png"
         },
-        "393": {
+        "423": {
             "name": "skuntank",
             "link": "https://wiki.otpokemon.com/images/1/1d/Min-skuntank.png"
         },
-        "394": {
+        "424": {
             "name": "glaceon",
             "link": "https://wiki.otpokemon.com/images/e/ed/Min-glaceon.png"
         },
-        "395": {
+        "425": {
             "name": "bibarel",
             "link": "https://wiki.otpokemon.com/images/3/3a/Min-bibarel.png"
         },
-        "396": {
+        "426": {
             "name": "bronzor",
             "link": "https://wiki.otpokemon.com/images/b/b2/Min-bronzor.png"
         },
-        "397": {
+        "427": {
             "name": "gliscor",
             "link": "https://wiki.otpokemon.com/images/6/65/Min-gliscor.png"
         },
-        "398": {
+        "428": {
             "name": "kricketot",
             "link": "https://wiki.otpokemon.com/images/d/d7/Min-kricketot.png"
         },
-        "399": {
+        "429": {
             "name": "bronzong",
             "link": "https://wiki.otpokemon.com/images/9/92/Min-bronzong.png"
         },
-        "400": {
+        "430": {
             "name": "mamoswine",
             "link": "https://wiki.otpokemon.com/images/0/06/Min-mamoswine.png"
         },
-        "401": {
+        "431": {
             "name": "kricketune",
             "link": "https://wiki.otpokemon.com/images/c/c3/Min-kricketune.png"
         },
-        "402": {
+        "432": {
             "name": "bonsly",
             "link": "https://wiki.otpokemon.com/images/d/d4/Min-bonsly.png"
         },
-        "403": {
+        "433": {
             "name": "porygon-z",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-porygon-z.png"
         },
-        "404": {
+        "434": {
             "name": "shinx",
             "link": "https://wiki.otpokemon.com/images/2/22/Min-shinx.png"
         },
-        "405": {
+        "435": {
             "name": "mime-jr",
             "link": "https://wiki.otpokemon.com/images/3/3d/Min-mime-jr.png"
         },
-        "406": {
+        "436": {
             "name": "gallade",
             "link": "https://wiki.otpokemon.com/images/d/d8/Min-gallade.png"
         },
-        "407": {
+        "437": {
             "name": "luxio",
             "link": "https://wiki.otpokemon.com/images/a/a8/Min-luxio.png"
         },
-        "408": {
+        "438": {
             "name": "happiny",
             "link": "https://wiki.otpokemon.com/images/8/8c/Min-happiny.png"
         },
-        "409": {
+        "439": {
             "name": "probopass",
             "link": "https://wiki.otpokemon.com/images/5/57/Min-probopass.png"
         },
-        "410": {
+        "440": {
             "name": "luxray",
             "link": "https://wiki.otpokemon.com/images/f/fa/Min-luxray.png"
         },
-        "411": {
+        "441": {
+            "name": "chatot",
+            "link": "https://wiki.otpokemon.com/images/1/17/Chatot.png"
+        },
+        "442": {
             "name": "dusknoir",
             "link": "https://wiki.otpokemon.com/images/1/16/Min-dusknoir.png"
         },
-        "412": {
+        "443": {
             "name": "budew",
             "link": "https://wiki.otpokemon.com/images/7/7f/Min-budew.png"
         },
-        "413": {
+        "444": {
             "name": "spiritomb",
             "link": "https://wiki.otpokemon.com/images/1/17/Min-spiritomb.png"
         },
-        "414": {
+        "445": {
             "name": "froslass",
             "link": "https://wiki.otpokemon.com/images/c/c0/Min-froslass.png"
         },
-        "415": {
+        "446": {
             "name": "roserade",
             "link": "https://wiki.otpokemon.com/images/a/ae/Min-roserade.png"
         },
-        "416": {
+        "447": {
             "name": "gible",
             "link": "https://wiki.otpokemon.com/images/4/4d/Min-gible.png"
         },
-        "417": {
+        "448": {
             "name": "rotom",
             "link": "https://wiki.otpokemon.com/images/a/a4/Min-rotom.png"
         },
-        "418": {
+        "449": {
             "name": "cranidos",
             "link": "https://wiki.otpokemon.com/images/8/83/Min-cranidos.png"
         },
-        "419": {
+        "450": {
             "name": "gabite",
             "link": "https://wiki.otpokemon.com/images/3/32/Min-gabite.png"
         },
-        "420": {
+        "451": {
             "name": "uxie",
             "link": "https://wiki.otpokemon.com/images/7/7f/Min-uxie.png"
         },
-        "421": {
+        "452": {
             "name": "rampardos",
             "link": "https://wiki.otpokemon.com/images/8/87/Min-rampardos.png"
         },
-        "422": {
+        "453": {
             "name": "garchomp",
             "link": "https://wiki.otpokemon.com/images/3/3b/Min-garchomp.png"
         },
-        "423": {
+        "454": {
             "name": "mesprit",
             "link": "https://wiki.otpokemon.com/images/5/5d/Min-mesprit.png"
         },
-        "424": {
+        "455": {
+            "name": "shieldon",
+            "link": "https://wiki.otpokemon.com/images/5/57/Shieldon.png"
+        },
+        "456": {
             "name": "munchlax",
             "link": "https://wiki.otpokemon.com/images/2/25/Min-munchlax.png"
         },
-        "425": {
+        "457": {
             "name": "azelf",
             "link": "https://wiki.otpokemon.com/images/f/fd/Min-azelf.png"
         },
-        "426": {
+        "458": {
             "name": "bastiodon",
             "link": "https://wiki.otpokemon.com/images/2/2a/Min-bastiodon.png"
         },
-        "427": {
+        "459": {
             "name": "riolu",
             "link": "https://wiki.otpokemon.com/images/5/57/Min-riolu.png"
         },
-        "428": {
+        "460": {
             "name": "dialga",
             "link": "https://wiki.otpokemon.com/images/a/af/Min-dialga.png"
         },
-        "429": {
+        "461": {
             "name": "burmy",
             "link": "https://wiki.otpokemon.com/images/3/35/Min-burmy.png"
         },
-        "430": {
+        "462": {
             "name": "lucario",
             "link": "https://wiki.otpokemon.com/images/7/74/Min-lucario.png"
         },
-        "431": {
+        "463": {
             "name": "palkia",
             "link": "https://wiki.otpokemon.com/images/e/e6/Min-palkia.png"
         },
-        "432": {
+        "464": {
             "name": "wormadam-plant",
             "link": "https://wiki.otpokemon.com/images/3/34/Min-wormadam-plant.png"
         },
-        "433": {
+        "465": {
             "name": "hippopotas",
             "link": "https://wiki.otpokemon.com/images/c/ce/Min-hippopotas.png"
         },
-        "434": {
+        "466": {
             "name": "heatran",
             "link": "https://wiki.otpokemon.com/images/6/6a/Min-heatran.png"
         },
-        "435": {
+        "467": {
             "name": "mothim",
             "link": "https://wiki.otpokemon.com/images/1/1d/Min-mothim.png"
         },
-        "436": {
+        "468": {
             "name": "hippowdon",
             "link": "https://wiki.otpokemon.com/images/2/2a/Min-hippowdon.png"
         },
-        "437": {
+        "469": {
             "name": "regigigas",
             "link": "https://wiki.otpokemon.com/images/4/40/Min-regigigas.png"
         },
-        "438": {
+        "470": {
             "name": "combee",
             "link": "https://wiki.otpokemon.com/images/c/c3/Min-combee.png"
         },
-        "439": {
+        "471": {
             "name": "skorupi",
             "link": "https://wiki.otpokemon.com/images/6/63/Min-skorupi.png"
         },
-        "440": {
+        "472": {
             "name": "giratina-origin",
             "link": "https://wiki.otpokemon.com/images/0/04/Min-giratina-origin.png"
         },
-        "441": {
+        "473": {
             "name": "vespiquen",
             "link": "https://wiki.otpokemon.com/images/b/be/Min-vespiquen.png"
         },
-        "442": {
+        "474": {
+            "name": "drapion",
+            "link": "https://wiki.otpokemon.com/images/1/18/Drapion.png"
+        },
+        "475": {
             "name": "cresselia",
             "link": "https://wiki.otpokemon.com/images/f/fe/Min-cresselia.png"
         },
-        "443": {
+        "476": {
             "name": "pachirisu",
             "link": "https://wiki.otpokemon.com/images/6/6a/Min-pachirisu.png"
         },
-        "444": {
+        "477": {
             "name": "croagunk",
             "link": "https://wiki.otpokemon.com/images/c/c6/Min-croagunk.png"
         },
-        "445": {
+        "478": {
             "name": "phione",
             "link": "https://wiki.otpokemon.com/images/1/17/Min-phione.png"
         },
-        "446": {
+        "479": {
+            "name": "buizel",
+            "link": "https://wiki.otpokemon.com/images/b/ba/Buizel.png"
+        },
+        "480": {
             "name": "toxicroak",
             "link": "https://wiki.otpokemon.com/images/5/54/Min-toxicroak.png"
         },
-        "447": {
+        "481": {
             "name": "manaphy",
             "link": "https://wiki.otpokemon.com/images/4/4f/Min-manaphy.png"
         },
-        "448": {
+        "482": {
             "name": "floatzel",
             "link": "https://wiki.otpokemon.com/images/a/a1/Min-floatzel.png"
         },
-        "449": {
+        "483": {
             "name": "carnivine",
             "link": "https://wiki.otpokemon.com/images/5/56/Min-carnivine.png"
         },
-        "450": {
+        "484": {
             "name": "darkrai",
             "link": "https://wiki.otpokemon.com/images/0/09/Min-darkrai.png"
         },
-        "451": {
+        "485": {
             "name": "cherubi",
             "link": "https://wiki.otpokemon.com/images/d/d9/Min-cherubi.png"
         },
-        "452": {
+        "486": {
             "name": "finneon",
             "link": "https://wiki.otpokemon.com/images/d/d7/Min-finneon.png"
         },
-        "453": {
+        "487": {
             "name": "shaymin-land",
             "link": "https://wiki.otpokemon.com/images/9/94/Min-shaymin-land.png"
         },
-        "454": {
+        "488": {
             "name": "cherrim",
             "link": "https://wiki.otpokemon.com/images/9/9f/Min-cherrim.png"
         },
-        "455": {
+        "489": {
             "name": "lumineon",
             "link": "https://wiki.otpokemon.com/images/8/8f/Min-lumineon.png"
         },
-        "456": {
+        "490": {
             "name": "arceus",
             "link": "https://wiki.otpokemon.com/images/7/7c/Min-arceus.png"
         },
-        "457": {
+        "491": {
             "name": "shellos",
             "link": "https://wiki.otpokemon.com/images/5/57/Min-shellos.png"
         },
-        "458": {
+        "492": {
             "name": "mantyke",
             "link": "https://wiki.otpokemon.com/images/0/02/Min-mantyke.png"
         },
-        "459": {
+        "493": {
             "name": "victini",
             "link": "https://wiki.otpokemon.com/images/0/09/Min-victini.png"
         },
-        "460": {
+        "494": {
             "name": "cottonee",
             "link": "https://wiki.otpokemon.com/images/7/7d/Min-cottonee.png"
         },
-        "461": {
+        "495": {
+            "name": "ferrothorn",
+            "link": "https://wiki.otpokemon.com/images/5/52/Ferrothorn.png"
+        },
+        "496": {
             "name": "snivy",
             "link": "https://wiki.otpokemon.com/images/0/0f/Min-snivy.png"
         },
-        "462": {
+        "497": {
             "name": "whimsicott",
             "link": "https://wiki.otpokemon.com/images/b/bf/Min-whimsicott.png"
         },
-        "463": {
+        "498": {
             "name": "klink",
             "link": "https://wiki.otpokemon.com/images/1/1e/Min-klink.png"
         },
-        "464": {
+        "499": {
             "name": "servine",
             "link": "https://wiki.otpokemon.com/images/9/9c/Min-servine.png"
         },
-        "465": {
+        "500": {
             "name": "petilil",
             "link": "https://wiki.otpokemon.com/images/f/f0/Min-petilil.png"
         },
-        "466": {
+        "501": {
             "name": "klang",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-klang.png"
         },
-        "467": {
+        "502": {
             "name": "serperior",
             "link": "https://wiki.otpokemon.com/images/c/c6/Min-serperior.png"
         },
-        "468": {
+        "503": {
             "name": "lilligant",
             "link": "https://wiki.otpokemon.com/images/7/74/Min-lilligant.png"
         },
-        "469": {
+        "504": {
             "name": "klinklang",
             "link": "https://wiki.otpokemon.com/images/8/83/Min-klinklang.png"
         },
-        "470": {
+        "505": {
             "name": "tepig",
             "link": "https://wiki.otpokemon.com/images/b/b7/Min-tepig.png"
         },
-        "471": {
+        "506": {
             "name": "basculin-blue-striped",
             "link": "https://wiki.otpokemon.com/images/3/39/Min-basculin-blue-striped.png"
         },
-        "472": {
+        "507": {
             "name": "tynamo",
             "link": "https://wiki.otpokemon.com/images/3/37/Min-tynamo.png"
         },
-        "473": {
+        "508": {
             "name": "pignite",
             "link": "https://wiki.otpokemon.com/images/0/00/Min-pignite.png"
         },
-        "474": {
+        "509": {
             "name": "sandile",
             "link": "https://wiki.otpokemon.com/images/5/5f/Min-sandile.png"
         },
-        "475": {
+        "510": {
             "name": "eelektrik",
             "link": "https://wiki.otpokemon.com/images/d/da/Min-eelektrik.png"
         },
-        "476": {
+        "511": {
             "name": "emboar",
             "link": "https://wiki.otpokemon.com/images/4/49/Min-emboar.png"
         },
-        "477": {
+        "512": {
             "name": "krokorok",
             "link": "https://wiki.otpokemon.com/images/8/82/Min-krokorok.png"
         },
-        "478": {
+        "513": {
             "name": "eelektross",
             "link": "https://wiki.otpokemon.com/images/c/c2/Min-eelektross.png"
         },
-        "479": {
+        "514": {
             "name": "oshawott",
             "link": "https://wiki.otpokemon.com/images/a/ac/Min-oshawott.png"
         },
-        "480": {
+        "515": {
             "name": "krookodile",
             "link": "https://wiki.otpokemon.com/images/e/ef/Min-krookodile.png"
         },
-        "481": {
+        "516": {
             "name": "elgyem",
             "link": "https://wiki.otpokemon.com/images/9/90/Min-elgyem.png"
         },
-        "482": {
+        "517": {
             "name": "dewott",
             "link": "https://wiki.otpokemon.com/images/3/39/Min-dewott.png"
         },
-        "483": {
+        "518": {
             "name": "darumaka",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-darumaka.png"
         },
-        "484": {
+        "519": {
             "name": "beheeyem",
             "link": "https://wiki.otpokemon.com/images/f/fa/Min-beheeyem.png"
         },
-        "485": {
+        "520": {
             "name": "samurott",
             "link": "https://wiki.otpokemon.com/images/9/94/Min-samurott.png"
         },
-        "486": {
+        "521": {
             "name": "darmanitan-standard",
             "link": "https://wiki.otpokemon.com/images/e/ef/Min-darmanitan-standard.png"
         },
-        "487": {
+        "522": {
             "name": "litwick",
             "link": "https://wiki.otpokemon.com/images/3/3d/Min-litwick.png"
         },
-        "488": {
+        "523": {
             "name": "patrat",
             "link": "https://wiki.otpokemon.com/images/7/7e/Min-patrat.png"
         },
-        "489": {
+        "524": {
             "name": "maractus",
             "link": "https://wiki.otpokemon.com/images/1/18/Min-maractus.png"
         },
-        "490": {
+        "525": {
             "name": "lampent",
             "link": "https://wiki.otpokemon.com/images/2/21/Min-lampent.png"
         },
-        "491": {
+        "526": {
             "name": "watchog",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-watchog.png"
         },
-        "492": {
+        "527": {
             "name": "dwebble",
             "link": "https://wiki.otpokemon.com/images/8/88/Min-dwebble.png"
         },
-        "493": {
+        "528": {
             "name": "chandelure",
             "link": "https://wiki.otpokemon.com/images/d/df/Min-chandelure.png"
         },
-        "494": {
+        "529": {
             "name": "lillipup",
             "link": "https://wiki.otpokemon.com/images/1/10/Min-lillipup.png"
         },
-        "495": {
+        "530": {
             "name": "crustle",
             "link": "https://wiki.otpokemon.com/images/a/a3/Min-crustle.png"
         },
-        "496": {
+        "531": {
             "name": "axew",
             "link": "https://wiki.otpokemon.com/images/b/b2/Min-axew.png"
         },
-        "497": {
+        "532": {
             "name": "herdier",
             "link": "https://wiki.otpokemon.com/images/e/e1/Min-herdier.png"
         },
-        "498": {
+        "533": {
             "name": "scraggy",
             "link": "https://wiki.otpokemon.com/images/6/6c/Min-scraggy.png"
         },
-        "499": {
+        "534": {
             "name": "fraxure",
             "link": "https://wiki.otpokemon.com/images/1/1a/Min-fraxure.png"
         },
-        "500": {
+        "535": {
             "name": "stoutland",
             "link": "https://wiki.otpokemon.com/images/6/61/Min-stoutland.png"
         },
-        "501": {
+        "536": {
             "name": "scrafty",
             "link": "https://wiki.otpokemon.com/images/2/27/Min-scrafty.png"
         },
-        "502": {
+        "537": {
             "name": "haxorus",
             "link": "https://wiki.otpokemon.com/images/c/c8/Min-haxorus.png"
         },
-        "503": {
+        "538": {
             "name": "purrloin",
             "link": "https://wiki.otpokemon.com/images/8/8d/Min-purrloin.png"
         },
-        "504": {
+        "539": {
             "name": "sigilyph",
             "link": "https://wiki.otpokemon.com/images/3/39/Min-sigilyph.png"
         },
-        "505": {
+        "540": {
             "name": "cubchoo",
             "link": "https://wiki.otpokemon.com/images/3/3a/Min-cubchoo.png"
         },
-        "506": {
+        "541": {
             "name": "liepard",
             "link": "https://wiki.otpokemon.com/images/6/67/Min-liepard.png"
         },
-        "507": {
+        "542": {
             "name": "yamask",
             "link": "https://wiki.otpokemon.com/images/2/25/Min-yamask.png"
         },
-        "508": {
+        "543": {
             "name": "beartic",
             "link": "https://wiki.otpokemon.com/images/0/04/Min-beartic.png"
         },
-        "509": {
+        "544": {
             "name": "pansage",
             "link": "https://wiki.otpokemon.com/images/b/b3/Min-pansage.png"
         },
-        "510": {
+        "545": {
             "name": "cofagrigus",
             "link": "https://wiki.otpokemon.com/images/a/af/Min-cofagrigus.png"
         },
-        "511": {
+        "546": {
             "name": "cryogonal",
             "link": "https://wiki.otpokemon.com/images/9/9d/Min-cryogonal.png"
         },
-        "512": {
+        "547": {
             "name": "simisage",
             "link": "https://wiki.otpokemon.com/images/c/c7/Min-simisage.png"
         },
-        "513": {
+        "548": {
             "name": "tirtouga",
             "link": "https://wiki.otpokemon.com/images/8/85/Min-tirtouga.png"
         },
-        "514": {
+        "549": {
             "name": "shelmet",
             "link": "https://wiki.otpokemon.com/images/b/b6/Min-shelmet.png"
         },
-        "515": {
+        "550": {
             "name": "pansear",
             "link": "https://wiki.otpokemon.com/images/b/b3/Min-pansear.png"
         },
-        "516": {
+        "551": {
             "name": "carracosta",
             "link": "https://wiki.otpokemon.com/images/f/fa/Min-carracosta.png"
         },
-        "517": {
+        "552": {
             "name": "accelgor",
             "link": "https://wiki.otpokemon.com/images/9/9f/Min-accelgor.png"
         },
-        "518": {
+        "553": {
             "name": "simisear",
             "link": "https://wiki.otpokemon.com/images/c/cb/Min-simisear.png"
         },
-        "519": {
+        "554": {
             "name": "archen",
             "link": "https://wiki.otpokemon.com/images/1/19/Min-archen.png"
         },
-        "520": {
+        "555": {
             "name": "stunfisk",
             "link": "https://wiki.otpokemon.com/images/1/1a/Min-stunfisk.png"
         },
-        "521": {
+        "556": {
             "name": "panpour",
             "link": "https://wiki.otpokemon.com/images/b/b0/Min-panpour.png"
         },
-        "522": {
+        "557": {
             "name": "archeops",
             "link": "https://wiki.otpokemon.com/images/4/41/Min-archeops.png"
         },
-        "523": {
+        "558": {
             "name": "mienfoo",
             "link": "https://wiki.otpokemon.com/images/8/8a/Min-mienfoo.png"
         },
-        "524": {
+        "559": {
             "name": "simipour",
             "link": "https://wiki.otpokemon.com/images/0/05/Min-simipour.png"
         },
-        "525": {
+        "560": {
+            "name": "trubbish",
+            "link": "https://wiki.otpokemon.com/images/d/df/Trubbish.png"
+        },
+        "561": {
             "name": "mienshao",
             "link": "https://wiki.otpokemon.com/images/0/0d/Min-mienshao.png"
         },
-        "526": {
+        "562": {
             "name": "munna",
             "link": "https://wiki.otpokemon.com/images/4/4a/Min-munna.png"
         },
-        "527": {
+        "563": {
+            "name": "garbodor",
+            "link": "https://wiki.otpokemon.com/images/3/36/Garbodor.png"
+        },
+        "564": {
             "name": "druddigon",
             "link": "https://wiki.otpokemon.com/images/8/8f/Min-druddigon.png"
         },
-        "528": {
+        "565": {
             "name": "musharna",
             "link": "https://wiki.otpokemon.com/images/3/35/Min-musharna.png"
         },
-        "529": {
+        "566": {
             "name": "zorua",
             "link": "https://wiki.otpokemon.com/images/8/84/Min-zorua.png"
         },
-        "530": {
+        "567": {
             "name": "golett",
             "link": "https://wiki.otpokemon.com/images/b/b2/Min-golett.png"
         },
-        "531": {
+        "568": {
             "name": "pidove",
             "link": "https://wiki.otpokemon.com/images/d/d5/Min-pidove.png"
         },
-        "532": {
+        "569": {
             "name": "zoroark",
             "link": "https://wiki.otpokemon.com/images/9/98/Min-zoroark.png"
         },
-        "533": {
+        "570": {
             "name": "golurk",
             "link": "https://wiki.otpokemon.com/images/e/e2/Min-golurk.png"
         },
-        "534": {
+        "571": {
             "name": "tranquill",
             "link": "https://wiki.otpokemon.com/images/9/95/Min-tranquill.png"
         },
-        "535": {
+        "572": {
             "name": "minccino",
             "link": "https://wiki.otpokemon.com/images/9/93/Min-minccino.png"
         },
-        "536": {
+        "573": {
             "name": "pawniard",
             "link": "https://wiki.otpokemon.com/images/a/af/Min-pawniard.png"
         },
-        "537": {
+        "574": {
             "name": "unfezant",
             "link": "https://wiki.otpokemon.com/images/e/e4/Min-unfezant.png"
         },
-        "538": {
+        "575": {
             "name": "cinccino",
             "link": "https://wiki.otpokemon.com/images/3/35/Min-cinccino.png"
         },
-        "539": {
+        "576": {
             "name": "bisharp",
             "link": "https://wiki.otpokemon.com/images/b/bd/Min-bisharp.png"
         },
-        "540": {
+        "577": {
             "name": "blitzle",
             "link": "https://wiki.otpokemon.com/images/1/1e/Min-blitzle.png"
         },
-        "541": {
+        "578": {
             "name": "gothita",
             "link": "https://wiki.otpokemon.com/images/2/24/Min-gothita.png"
         },
-        "542": {
+        "579": {
             "name": "bouffalant",
             "link": "https://wiki.otpokemon.com/images/f/f2/Min-bouffalant.png"
         },
-        "543": {
+        "580": {
             "name": "zebstrika",
             "link": "https://wiki.otpokemon.com/images/8/84/Min-zebstrika.png"
         },
-        "544": {
+        "581": {
             "name": "gothorita",
             "link": "https://wiki.otpokemon.com/images/0/06/Min-gothorita.png"
         },
-        "545": {
+        "582": {
             "name": "rufflet",
             "link": "https://wiki.otpokemon.com/images/f/fb/Min-rufflet.png"
         },
-        "546": {
+        "583": {
             "name": "roggenrola",
             "link": "https://wiki.otpokemon.com/images/b/b7/Min-roggenrola.png"
         },
-        "547": {
+        "584": {
             "name": "gothitelle",
             "link": "https://wiki.otpokemon.com/images/a/a3/Min-gothitelle.png"
         },
-        "548": {
+        "585": {
             "name": "braviary",
             "link": "https://wiki.otpokemon.com/images/f/f0/Min-braviary.png"
         },
-        "549": {
+        "586": {
             "name": "boldore",
             "link": "https://wiki.otpokemon.com/images/f/f4/Min-boldore.png"
         },
-        "550": {
+        "587": {
             "name": "solosis",
             "link": "https://wiki.otpokemon.com/images/1/1e/Min-solosis.png"
         },
-        "551": {
+        "588": {
             "name": "vullaby",
             "link": "https://wiki.otpokemon.com/images/e/eb/Min-vullaby.png"
         },
-        "552": {
+        "589": {
             "name": "gigalith",
             "link": "https://wiki.otpokemon.com/images/4/41/Min-gigalith.png"
         },
-        "553": {
+        "590": {
             "name": "duosion",
             "link": "https://wiki.otpokemon.com/images/7/79/Min-duosion.png"
         },
-        "554": {
+        "591": {
             "name": "mandibuzz",
             "link": "https://wiki.otpokemon.com/images/c/cc/Min-mandibuzz.png"
         },
-        "555": {
+        "592": {
             "name": "woobat",
             "link": "https://wiki.otpokemon.com/images/6/69/Min-woobat.png"
         },
-        "556": {
+        "593": {
             "name": "reuniclus",
             "link": "https://wiki.otpokemon.com/images/a/a1/Min-reuniclus.png"
         },
-        "557": {
+        "594": {
             "name": "heatmor",
             "link": "https://wiki.otpokemon.com/images/2/28/Min-heatmor.png"
         },
-        "558": {
+        "595": {
             "name": "swoobat",
             "link": "https://wiki.otpokemon.com/images/a/a3/Min-swoobat.png"
         },
-        "559": {
+        "596": {
             "name": "ducklett",
             "link": "https://wiki.otpokemon.com/images/9/96/Min-ducklett.png"
         },
-        "560": {
+        "597": {
             "name": "durant",
             "link": "https://wiki.otpokemon.com/images/c/ce/Min-durant.png"
         },
-        "561": {
+        "598": {
             "name": "drilbur",
             "link": "https://wiki.otpokemon.com/images/b/b7/Min-drilbur.png"
         },
-        "562": {
+        "599": {
             "name": "swanna",
             "link": "https://wiki.otpokemon.com/images/1/19/Min-swanna.png"
         },
-        "563": {
+        "600": {
             "name": "deino",
             "link": "https://wiki.otpokemon.com/images/8/82/Min-deino.png"
         },
-        "564": {
+        "601": {
             "name": "excadrill",
             "link": "https://wiki.otpokemon.com/images/9/9e/Min-excadrill.png"
         },
-        "565": {
+        "602": {
             "name": "vanillite",
             "link": "https://wiki.otpokemon.com/images/e/e5/Min-vanillite.png"
         },
-        "566": {
+        "603": {
             "name": "zweilous",
             "link": "https://wiki.otpokemon.com/images/f/fc/Min-zweilous.png"
         },
-        "567": {
+        "604": {
             "name": "audino",
             "link": "https://wiki.otpokemon.com/images/a/af/Min-audino.png"
         },
-        "568": {
+        "605": {
             "name": "vanillish",
             "link": "https://wiki.otpokemon.com/images/b/ba/Min-vanillish.png"
         },
-        "569": {
+        "606": {
             "name": "hydreigon",
             "link": "https://wiki.otpokemon.com/images/3/3d/Min-hydreigon.png"
         },
-        "570": {
+        "607": {
             "name": "timburr",
             "link": "https://wiki.otpokemon.com/images/d/db/Min-timburr.png"
         },
-        "571": {
+        "608": {
             "name": "vanilluxe",
             "link": "https://wiki.otpokemon.com/images/b/b4/Min-vanilluxe.png"
         },
-        "572": {
+        "609": {
             "name": "larvesta",
             "link": "https://wiki.otpokemon.com/images/7/7a/Min-larvesta.png"
         },
-        "573": {
+        "610": {
+            "name": "gurdurr",
+            "link": "https://wiki.otpokemon.com/images/f/f3/Gurdurr.png"
+        },
+        "611": {
             "name": "deerling",
             "link": "https://wiki.otpokemon.com/images/4/44/Min-deerling.png"
         },
-        "574": {
+        "612": {
             "name": "volcarona",
             "link": "https://wiki.otpokemon.com/images/7/79/Min-volcarona.png"
         },
-        "575": {
+        "613": {
             "name": "conkeldurr",
             "link": "https://wiki.otpokemon.com/images/f/f0/Min-conkeldurr.png"
         },
-        "576": {
+        "614": {
             "name": "sawsbuck",
             "link": "https://wiki.otpokemon.com/images/7/72/Min-sawsbuck.png"
         },
-        "577": {
+        "615": {
             "name": "cobalion",
             "link": "https://wiki.otpokemon.com/images/a/a7/Min-cobalion.png"
         },
-        "578": {
+        "616": {
             "name": "tympole",
             "link": "https://wiki.otpokemon.com/images/7/7d/Min-tympole.png"
         },
-        "579": {
+        "617": {
             "name": "emolga",
             "link": "https://wiki.otpokemon.com/images/1/1c/Min-emolga.png"
         },
-        "580": {
+        "618": {
             "name": "terrakion",
             "link": "https://wiki.otpokemon.com/images/8/8d/Min-terrakion.png"
         },
-        "581": {
+        "619": {
             "name": "palpitoad",
             "link": "https://wiki.otpokemon.com/images/8/83/Min-palpitoad.png"
         },
-        "582": {
+        "620": {
             "name": "karrablast",
             "link": "https://wiki.otpokemon.com/images/3/32/Min-karrablast.png"
         },
-        "583": {
+        "621": {
             "name": "virizion",
             "link": "https://wiki.otpokemon.com/images/b/b5/Min-virizion.png"
         },
-        "584": {
+        "622": {
+            "name": "seismitoad",
+            "link": "https://wiki.otpokemon.com/images/c/c1/Seismitoad.png"
+        },
+        "623": {
             "name": "escavalier",
             "link": "https://wiki.otpokemon.com/images/1/19/Min-escavalier.png"
         },
-        "585": {
+        "624": {
             "name": "tornadus-incarnate",
             "link": "https://wiki.otpokemon.com/images/0/0a/Min-tornadus-incarnate.png"
         },
-        "586": {
+        "625": {
             "name": "throh",
             "link": "https://wiki.otpokemon.com/images/0/03/Min-throh.png"
         },
-        "587": {
+        "626": {
             "name": "foongus",
             "link": "https://wiki.otpokemon.com/images/a/a4/Min-foongus.png"
         },
-        "588": {
+        "627": {
             "name": "thundurus-incarnate",
             "link": "https://wiki.otpokemon.com/images/c/cf/Min-thundurus-incarnate.png"
         },
-        "589": {
+        "628": {
             "name": "sawk",
             "link": "https://wiki.otpokemon.com/images/0/08/Min-sawk.png"
         },
-        "590": {
+        "629": {
             "name": "amoonguss",
             "link": "https://wiki.otpokemon.com/images/8/83/Min-amoonguss.png"
         },
-        "591": {
+        "630": {
             "name": "reshiram",
             "link": "https://wiki.otpokemon.com/images/f/fb/Min-reshiram.png"
         },
-        "592": {
+        "631": {
             "name": "sewaddle",
             "link": "https://wiki.otpokemon.com/images/b/bb/Min-sewaddle.png"
         },
-        "593": {
+        "632": {
             "name": "frillish",
             "link": "https://wiki.otpokemon.com/images/c/c0/Min-frillish.png"
         },
-        "594": {
+        "633": {
             "name": "zekrom",
             "link": "https://wiki.otpokemon.com/images/9/99/Min-zekrom.png"
         },
-        "595": {
+        "634": {
             "name": "swadloon",
             "link": "https://wiki.otpokemon.com/images/5/53/Min-swadloon.png"
         },
-        "596": {
+        "635": {
             "name": "jellicent",
             "link": "https://wiki.otpokemon.com/images/3/3a/Min-jellicent.png"
         },
-        "597": {
+        "636": {
             "name": "landorus-incarnate",
             "link": "https://wiki.otpokemon.com/images/1/12/Min-landorus-incarnate.png"
         },
-        "598": {
+        "637": {
             "name": "leavanny",
             "link": "https://wiki.otpokemon.com/images/e/e7/Min-leavanny.png"
         },
-        "599": {
+        "638": {
+            "name": "alomomola",
+            "link": "https://wiki.otpokemon.com/images/5/5e/Alomomola.png"
+        },
+        "639": {
             "name": "kyurem",
             "link": "https://wiki.otpokemon.com/images/7/7d/Min-kyurem.png"
         },
-        "600": {
+        "640": {
             "name": "venipede",
             "link": "https://wiki.otpokemon.com/images/4/48/Min-venipede.png"
         },
-        "601": {
+        "641": {
             "name": "joltik",
             "link": "https://wiki.otpokemon.com/images/e/ea/Min-joltik.png"
         },
-        "602": {
+        "642": {
             "name": "keldeo-ordinary",
             "link": "https://wiki.otpokemon.com/images/1/17/Min-keldeo-ordinary.png"
         },
-        "603": {
+        "643": {
             "name": "whirlipede",
             "link": "https://wiki.otpokemon.com/images/0/04/Min-whirlipede.png"
         },
-        "604": {
+        "644": {
             "name": "galvantula",
             "link": "https://wiki.otpokemon.com/images/e/e3/Min-galvantula.png"
         },
-        "605": {
+        "645": {
             "name": "meloetta-aria",
             "link": "https://wiki.otpokemon.com/images/5/58/Min-meloetta-aria.png"
         },
-        "606": {
+        "646": {
+            "name": "scolipede",
+            "link": "https://wiki.otpokemon.com/images/e/e4/Scolipede.png"
+        },
+        "647": {
             "name": "ferroseed",
             "link": "https://wiki.otpokemon.com/images/8/81/Min-ferroseed.png"
         },
-        "607": {
+        "648": {
             "name": "genesect",
             "link": "https://wiki.otpokemon.com/images/c/cd/Min-genesect.png"
         },
-        "608": {
+        "649": {
             "name": "chespin",
             "link": "https://wiki.otpokemon.com/images/c/c7/Min-chespin.png"
         },
-        "609": {
+        "650": {
             "name": "pangoro",
             "link": "https://wiki.otpokemon.com/images/8/83/Min-pangoro.png"
         },
-        "610": {
+        "651": {
             "name": "sylveon",
             "link": "https://wiki.otpokemon.com/images/4/41/Min-sylveon.png"
         },
-        "611": {
+        "652": {
             "name": "quilladin",
             "link": "https://wiki.otpokemon.com/images/c/c4/Min-quilladin.png"
         },
-        "612": {
+        "653": {
             "name": "furfrou",
             "link": "https://wiki.otpokemon.com/images/2/27/Min-furfrou.png"
         },
-        "613": {
+        "654": {
             "name": "hawlucha",
             "link": "https://wiki.otpokemon.com/images/9/93/Min-hawlucha.png"
         },
-        "614": {
+        "655": {
             "name": "chesnaught",
             "link": "https://wiki.otpokemon.com/images/2/28/Min-chesnaught.png"
         },
-        "615": {
+        "656": {
             "name": "espurr",
             "link": "https://wiki.otpokemon.com/images/c/c8/Min-espurr.png"
         },
-        "616": {
+        "657": {
             "name": "dedenne",
             "link": "https://wiki.otpokemon.com/images/9/93/Min-dedenne.png"
         },
-        "617": {
+        "658": {
             "name": "fennekin",
             "link": "https://wiki.otpokemon.com/images/4/41/Min-fennekin.png"
         },
-        "618": {
+        "659": {
             "name": "meowstic-female",
             "link": "https://wiki.otpokemon.com/images/c/c2/Min-meowstic-female.png"
         },
-        "619": {
+        "660": {
             "name": "carbink",
             "link": "https://wiki.otpokemon.com/images/3/3c/Min-carbink.png"
         },
-        "620": {
+        "661": {
             "name": "braixen",
             "link": "https://wiki.otpokemon.com/images/a/a9/Min-braixen.png"
         },
-        "621": {
+        "662": {
             "name": "honedge",
             "link": "https://wiki.otpokemon.com/images/3/35/Min-honedge.png"
         },
-        "622": {
+        "663": {
             "name": "goomy",
             "link": "https://wiki.otpokemon.com/images/3/33/Min-goomy.png"
         },
-        "623": {
+        "664": {
             "name": "delphox",
             "link": "https://wiki.otpokemon.com/images/c/c3/Min-delphox.png"
         },
-        "624": {
+        "665": {
             "name": "doublade",
             "link": "https://wiki.otpokemon.com/images/2/20/Min-doublade.png"
         },
-        "625": {
+        "666": {
             "name": "sliggoo",
             "link": "https://wiki.otpokemon.com/images/2/2f/Min-sliggoo.png"
         },
-        "626": {
+        "667": {
             "name": "froakie",
             "link": "https://wiki.otpokemon.com/images/d/d7/Min-froakie.png"
         },
-        "627": {
+        "668": {
             "name": "aegislash-blade",
             "link": "https://wiki.otpokemon.com/images/5/57/Min-aegislash-blade.png"
         },
-        "628": {
+        "669": {
             "name": "goodra",
             "link": "https://wiki.otpokemon.com/images/a/ae/Min-goodra.png"
         },
-        "629": {
+        "670": {
             "name": "frogadier",
             "link": "https://wiki.otpokemon.com/images/f/f8/Min-frogadier.png"
         },
-        "630": {
+        "671": {
             "name": "spritzee",
             "link": "https://wiki.otpokemon.com/images/a/a5/Min-spritzee.png"
         },
-        "631": {
+        "672": {
             "name": "klefki",
             "link": "https://wiki.otpokemon.com/images/f/f9/Min-klefki.png"
         },
-        "632": {
+        "673": {
             "name": "greninja",
             "link": "https://wiki.otpokemon.com/images/2/25/Min-greninja.png"
         },
-        "633": {
+        "674": {
             "name": "aromatisse",
             "link": "https://wiki.otpokemon.com/images/f/f1/Min-aromatisse.png"
         },
-        "634": {
+        "675": {
             "name": "phantump",
             "link": "https://wiki.otpokemon.com/images/8/85/Min-phantump.png"
         },
-        "635": {
+        "676": {
             "name": "bunnelby",
             "link": "https://wiki.otpokemon.com/images/a/a7/Min-bunnelby.png"
         },
-        "636": {
+        "677": {
             "name": "swirlix",
             "link": "https://wiki.otpokemon.com/images/e/e5/Min-swirlix.png"
         },
-        "637": {
+        "678": {
             "name": "trevenant",
             "link": "https://wiki.otpokemon.com/images/3/3b/Min-trevenant.png"
         },
-        "638": {
+        "679": {
             "name": "diggersby",
             "link": "https://wiki.otpokemon.com/images/c/c2/Min-diggersby.png"
         },
-        "639": {
+        "680": {
             "name": "slurpuff",
             "link": "https://wiki.otpokemon.com/images/7/70/Min-slurpuff.png"
         },
-        "640": {
-            "name": "pumpkaboo",
-            "link": "https://wiki.otpokemon.com/images/a/a6/Min-pumpkaboo.png"
-        },
-        "641": {
+        "681": {
             "name": "fletchling",
             "link": "https://wiki.otpokemon.com/images/c/c4/Min-fletchling.png"
         },
-        "642": {
+        "682": {
             "name": "inkay",
             "link": "https://wiki.otpokemon.com/images/d/dd/Min-inkay.png"
         },
-        "643": {
-            "name": "gourgeist",
-            "link": "https://wiki.otpokemon.com/images/b/b7/Min-gourgeist.png"
-        },
-        "644": {
+        "683": {
             "name": "fletchinder",
             "link": "https://wiki.otpokemon.com/images/f/fd/Min-fletchinder.png"
         },
-        "645": {
+        "684": {
             "name": "malamar",
             "link": "https://wiki.otpokemon.com/images/5/57/Min-malamar.png"
         },
-        "646": {
+        "685": {
             "name": "bergmite",
             "link": "https://wiki.otpokemon.com/images/0/0c/Min-bergmite.png"
         },
-        "647": {
+        "686": {
             "name": "talonflame",
             "link": "https://wiki.otpokemon.com/images/7/79/Min-talonflame.png"
         },
-        "648": {
+        "687": {
             "name": "binacle",
             "link": "https://wiki.otpokemon.com/images/c/c2/Min-binacle.png"
         },
-        "649": {
+        "688": {
             "name": "avalugg",
             "link": "https://wiki.otpokemon.com/images/4/46/Min-avalugg.png"
         },
-        "650": {
+        "689": {
             "name": "scatterbug",
             "link": "https://wiki.otpokemon.com/images/4/41/Min-scatterbug.png"
         },
-        "651": {
+        "690": {
             "name": "barbaracle",
             "link": "https://wiki.otpokemon.com/images/7/79/Min-barbaracle.png"
         },
-        "652": {
+        "691": {
             "name": "noibat",
             "link": "https://wiki.otpokemon.com/images/0/0c/Min-noibat.png"
         },
-        "653": {
+        "692": {
             "name": "spewpa",
             "link": "https://wiki.otpokemon.com/images/e/e4/Min-spewpa.png"
         },
-        "654": {
+        "693": {
             "name": "skrelp",
             "link": "https://wiki.otpokemon.com/images/4/47/Min-skrelp.png"
         },
-        "655": {
+        "694": {
             "name": "noivern",
             "link": "https://wiki.otpokemon.com/images/0/08/Min-noivern.png"
         },
-        "656": {
+        "695": {
             "name": "vivillon",
             "link": "https://wiki.otpokemon.com/images/3/39/Min-vivillon.png"
         },
-        "657": {
+        "696": {
             "name": "dragalge",
             "link": "https://wiki.otpokemon.com/images/0/0d/Min-dragalge.png"
         },
-        "658": {
+        "697": {
             "name": "xerneas",
             "link": "https://wiki.otpokemon.com/images/6/61/Min-xerneas.png"
         },
-        "659": {
+        "698": {
             "name": "litleo",
             "link": "https://wiki.otpokemon.com/images/b/b3/Min-litleo.png"
         },
-        "660": {
+        "699": {
             "name": "clauncher",
             "link": "https://wiki.otpokemon.com/images/3/38/Min-clauncher.png"
         },
-        "661": {
+        "700": {
             "name": "yveltal",
             "link": "https://wiki.otpokemon.com/images/d/d7/Min-yveltal.png"
         },
-        "662": {
+        "701": {
             "name": "pyroar",
             "link": "https://wiki.otpokemon.com/images/b/b0/Min-pyroar.png"
         },
-        "663": {
+        "702": {
             "name": "clawitzer",
             "link": "https://wiki.otpokemon.com/images/4/48/Min-clawitzer.png"
         },
-        "664": {
+        "703": {
             "name": "zygarde-50",
             "link": "https://wiki.otpokemon.com/images/c/ce/Min-zygarde-50.png"
         },
-        "665": {
+        "704": {
             "name": "flabebe",
             "link": "https://wiki.otpokemon.com/images/8/89/Min-flabebe.png"
         },
-        "666": {
+        "705": {
             "name": "helioptile",
             "link": "https://wiki.otpokemon.com/images/5/5f/Min-helioptile.png"
         },
-        "667": {
+        "706": {
             "name": "diancie",
             "link": "https://wiki.otpokemon.com/images/d/d8/Min-diancie.png"
         },
-        "668": {
+        "707": {
             "name": "floette",
             "link": "https://wiki.otpokemon.com/images/8/8a/Min-floette.png"
         },
-        "669": {
+        "708": {
             "name": "heliolisk",
             "link": "https://wiki.otpokemon.com/images/5/59/Min-heliolisk.png"
         },
-        "670": {
-            "name": "hoopa-confined",
-            "link": "https://wiki.otpokemon.com/images/3/3f/Min-hoopa-confined.png"
-        },
-        "671": {
+        "709": {
             "name": "florges",
             "link": "https://wiki.otpokemon.com/images/2/2c/Min-florges.png"
         },
-        "672": {
+        "710": {
             "name": "tyrunt",
             "link": "https://wiki.otpokemon.com/images/9/9e/Min-tyrunt.png"
         },
-        "673": {
+        "711": {
             "name": "volcanion",
             "link": "https://wiki.otpokemon.com/images/8/8d/Min-volcanion.png"
         },
-        "674": {
+        "712": {
             "name": "skiddo",
             "link": "https://wiki.otpokemon.com/images/7/70/Min-skiddo.png"
         },
-        "675": {
+        "713": {
             "name": "tyrantrum",
             "link": "https://wiki.otpokemon.com/images/1/13/Min-tyrantrum.png"
         },
-        "676": {
+        "714": {
             "name": "gogoat",
             "link": "https://wiki.otpokemon.com/images/8/81/Min-gogoat.png"
         },
-        "677": {
+        "715": {
             "name": "amaura",
             "link": "https://wiki.otpokemon.com/images/4/46/Min-amaura.png"
         },
-        "678": {
+        "716": {
             "name": "pancham",
             "link": "https://wiki.otpokemon.com/images/0/07/Min-pancham.png"
         },
-        "679": {
+        "717": {
             "name": "aurorus",
             "link": "https://wiki.otpokemon.com/images/2/2f/Min-aurorus.png"
         },
-        "680": {
-            "name": "rowlet2",
-            "link": "https://wiki.otpokemon.com/images/c/c5/Min-rowlet2.png"
-        },
-        "681": {
+        "718": {
             "name": "fomantis",
             "link": "https://wiki.otpokemon.com/images/3/34/Min-fomantis.png"
         },
-        "682": {
-            "name": "tapu koko",
-            "link": "https://wiki.otpokemon.com/images/0/05/Min-tapu_koko.png"
-        },
-        "683": {
+        "719": {
             "name": "dartrix",
             "link": "https://wiki.otpokemon.com/images/0/0c/Min-dartrix.png"
         },
-        "684": {
+        "720": {
             "name": "lurantis",
             "link": "https://wiki.otpokemon.com/images/9/97/Min-lurantis.png"
         },
-        "685": {
+        "721": {
             "name": "decidueye",
             "link": "https://wiki.otpokemon.com/images/e/e4/Min-decidueye.png"
         },
-        "686": {
+        "722": {
             "name": "morelull",
             "link": "https://wiki.otpokemon.com/images/2/25/Min-morelull.png"
         },
-        "687": {
+        "723": {
             "name": "litten",
             "link": "https://wiki.otpokemon.com/images/0/0a/Min-litten.png"
         },
-        "688": {
+        "724": {
             "name": "shiinotic",
             "link": "https://wiki.otpokemon.com/images/7/73/Min-shiinotic.png"
         },
-        "689": {
+        "725": {
             "name": "torracat",
             "link": "https://wiki.otpokemon.com/images/5/57/Min-torracat.png"
         },
-        "690": {
+        "726": {
             "name": "salandit",
             "link": "https://wiki.otpokemon.com/images/9/9e/Min-salandit.png"
         },
-        "691": {
+        "727": {
             "name": "incineroar",
             "link": "https://wiki.otpokemon.com/images/8/89/Min-incineroar.png"
         },
-        "692": {
+        "728": {
             "name": "salazzle",
             "link": "https://wiki.otpokemon.com/images/thumb/7/71/Min-salazzle.png/32px-Min-salazzle.png"
         },
-        "693": {
+        "729": {
             "name": "popplio",
             "link": "https://wiki.otpokemon.com/images/2/27/Min-popplio.png"
         },
-        "694": {
+        "730": {
             "name": "stufful",
             "link": "https://wiki.otpokemon.com/images/c/cd/Min-stufful.png"
         },
-        "695": {
+        "731": {
             "name": "brionne",
             "link": "https://wiki.otpokemon.com/images/6/6f/Min-brionne.png"
         },
-        "696": {
+        "732": {
             "name": "bewear",
             "link": "https://wiki.otpokemon.com/images/3/3e/Min-bewear.png"
         },
-        "697": {
+        "733": {
             "name": "primarina",
             "link": "https://wiki.otpokemon.com/images/a/a4/Min-primarina.png"
         },
-        "698": {
+        "734": {
             "name": "bounsweet",
             "link": "https://wiki.otpokemon.com/images/thumb/c/c9/Min-bounsweet.png/32px-Min-bounsweet.png"
         },
-        "699": {
+        "735": {
             "name": "pikipek",
             "link": "https://wiki.otpokemon.com/images/a/aa/Min-pikipek.png"
         },
-        "700": {
+        "736": {
             "name": "steenee",
             "link": "https://wiki.otpokemon.com/images/thumb/1/15/Min-steenee.png/32px-Min-steenee.png"
         },
-        "701": {
+        "737": {
             "name": "trumbeak",
             "link": "https://wiki.otpokemon.com/images/e/e1/Min-trumbeak.png"
         },
-        "702": {
+        "738": {
             "name": "tsareena",
             "link": "https://wiki.otpokemon.com/images/thumb/4/46/Min-tsareena.png/32px-Min-tsareena.png"
         },
-        "703": {
+        "739": {
             "name": "toucannon",
             "link": "https://wiki.otpokemon.com/images/d/d0/Min-toucannon.png"
         },
-        "704": {
+        "740": {
             "name": "comfey",
             "link": "https://wiki.otpokemon.com/images/4/42/Min-comfey.png"
         },
-        "705": {
+        "741": {
             "name": "yungoos",
             "link": "https://wiki.otpokemon.com/images/7/7b/Min-yungoos.png"
         },
-        "706": {
+        "742": {
             "name": "oranguru",
             "link": "https://wiki.otpokemon.com/images/5/56/Min-oranguru.png"
         },
-        "707": {
+        "743": {
             "name": "gumshoos",
             "link": "https://wiki.otpokemon.com/images/b/b4/Min-gumshoos.png"
         },
-        "708": {
+        "744": {
             "name": "passimian",
             "link": "https://wiki.otpokemon.com/images/9/9b/Min-passimian.png"
         },
-        "709": {
+        "745": {
             "name": "grubbin",
             "link": "https://wiki.otpokemon.com/images/e/ea/Min-grubbin.png"
         },
-        "710": {
+        "746": {
             "name": "wimpod",
             "link": "https://wiki.otpokemon.com/images/thumb/9/9e/Min-wimpod.png/32px-Min-wimpod.png"
         },
-        "711": {
+        "747": {
             "name": "charjabug",
             "link": "https://wiki.otpokemon.com/images/5/5f/Min-charjabug.png"
         },
-        "712": {
+        "748": {
             "name": "golisopod",
             "link": "https://wiki.otpokemon.com/images/thumb/b/bb/Min-golisopod.png/32px-Min-golisopod.png"
         },
-        "713": {
+        "749": {
             "name": "vikavolt",
             "link": "https://wiki.otpokemon.com/images/2/20/Min-vikavolt.png"
         },
-        "714": {
+        "750": {
             "name": "sandygast",
             "link": "https://wiki.otpokemon.com/images/1/1b/Min-sandygast.png"
         },
-        "715": {
+        "751": {
             "name": "crabrawler",
             "link": "https://wiki.otpokemon.com/images/8/8b/Min-crabrawler.png"
         },
-        "716": {
+        "752": {
             "name": "palossand",
             "link": "https://wiki.otpokemon.com/images/c/ca/Min-palossand.png"
         },
-        "717": {
+        "753": {
             "name": "crabominable",
             "link": "https://wiki.otpokemon.com/images/6/6b/Min-crabominable.png"
         },
-        "718": {
+        "754": {
             "name": "pyukumuku",
             "link": "https://wiki.otpokemon.com/images/6/66/Min-pyukumuku.png"
         },
-        "719": {
-            "name": "oricorio",
-            "link": "https://wiki.otpokemon.com/images/d/df/Min-oricorio.png"
-        },
-        "720": {
-            "name": "type null",
-            "link": "https://wiki.otpokemon.com/images/2/2d/Min-type_null.png"
-        },
-        "721": {
+        "755": {
             "name": "cutiefly",
             "link": "https://wiki.otpokemon.com/images/7/7b/Min-cutiefly.png"
         },
-        "722": {
-            "name": "minior",
-            "link": "https://wiki.otpokemon.com/images/d/d6/Min-minior.png"
-        },
-        "723": {
+        "756": {
             "name": "ribombee",
             "link": "https://wiki.otpokemon.com/images/4/40/Min-ribombee.png"
         },
-        "724": {
+        "757": {
             "name": "komala",
             "link": "https://wiki.otpokemon.com/images/0/02/Min-komala.png"
         },
-        "725": {
+        "758": {
             "name": "rockruff",
             "link": "https://wiki.otpokemon.com/images/b/bf/Min-rockruff.png"
         },
-        "726": {
+        "759": {
             "name": "turtonator",
             "link": "https://wiki.otpokemon.com/images/b/bf/Min-turtonator.png"
         },
-        "727": {
-            "name": "lycanroc",
-            "link": "https://wiki.otpokemon.com/images/1/13/Min-lycanroc.png"
-        },
-        "728": {
+        "760": {
             "name": "togedemaru",
             "link": "https://wiki.otpokemon.com/images/1/1e/Min-togedemaru.png"
         },
-        "729": {
-            "name": "wishiwashi",
-            "link": "https://wiki.otpokemon.com/images/9/93/Min-wishiwashi.png"
-        },
-        "730": {
-            "name": "mimikyu",
-            "link": "https://wiki.otpokemon.com/images/5/5f/Min-mimikyu.png"
-        },
-        "731": {
+        "761": {
             "name": "mareanie",
             "link": "https://wiki.otpokemon.com/images/e/e0/Min-mareanie.png"
         },
-        "732": {
+        "762": {
             "name": "bruxish",
             "link": "https://wiki.otpokemon.com/images/8/86/Min-bruxish.png"
         },
-        "733": {
+        "763": {
             "name": "toxapex",
             "link": "https://wiki.otpokemon.com/images/a/a1/Min-toxapex.png"
         },
-        "734": {
+        "764": {
             "name": "drampa",
             "link": "https://wiki.otpokemon.com/images/e/eb/Min-drampa.png"
         },
-        "735": {
+        "765": {
             "name": "mudbray",
             "link": "https://wiki.otpokemon.com/images/4/46/Min-mudbray.png"
         },
-        "736": {
+        "766": {
             "name": "dhelmise",
             "link": "https://wiki.otpokemon.com/images/b/b5/Min-dhelmise.png"
         },
-        "737": {
+        "767": {
             "name": "mudsdale",
             "link": "https://wiki.otpokemon.com/images/a/a4/Min-mudsdale.png"
         },
-        "738": {
+        "768": {
             "name": "jangmo-o",
             "link": "https://wiki.otpokemon.com/images/7/7b/Min-jangmo-o.png"
         },
-        "739": {
+        "769": {
             "name": "dewpider",
             "link": "https://wiki.otpokemon.com/images/b/b0/Min-dewpider.png"
         },
-        "740": {
+        "770": {
             "name": "hakamo-o",
             "link": "https://wiki.otpokemon.com/images/b/bc/Min-hakamo-o.png"
         },
-        "741": {
+        "771": {
             "name": "araquanid",
             "link": "https://wiki.otpokemon.com/images/c/c3/Min-araquanid.png"
         },
-        "742": {
+        "772": {
             "name": "kommo-o",
             "link": "https://wiki.otpokemon.com/images/8/84/Min-kommo-o.png"
         }

@@ -2,7 +2,7 @@ from app.models.models import *
 from fastapi import UploadFile
 from tinydb import TinyDB, Query
 
-db = TinyDB("./app/database/pokemons.json", indent = 4)
+poke_db = TinyDB("./app/database/pokemons.json", indent = 4)
 
 query = Query()
 
@@ -82,7 +82,7 @@ class Validate():
         pokemon_data = pokemon.model_dump()
 
         # Validate name
-        if not db.search(query.name == pokemon_data['name']):
+        if not poke_db.search(query.name == pokemon_data['name']):
             return "Invalid pokemon name"
 
         # Validate level

@@ -2,6 +2,26 @@ import requests
 import tinydb
 from bs4 import BeautifulSoup
 
+def get_all_pokemons_names():
+    url = "https://pokeapi.co/api/v2/pokemon"
+    pokemon_names = []
+
+    while url:
+        response = requests.get(url)
+
+        if response.status_code != 200:
+            raise Exception(f"Erro ao acessar a api: {response.status_code}")
+      
+        data = response.json()
+        for pokemon in data["results"]:
+            pokemon_names.append(pokemon['name'])
+
+        url = data['next']
+
+    return pokemon_names
+
+name_pokemon = get_all_pokemons_names()
+
 def fetch_images_with_initiator(url: str, initiator_prefix: str = "Pokedex:"):
     # Request the content of the webpage
     response = requests.get(url)
@@ -19,13 +39,23 @@ def fetch_images_with_initiator(url: str, initiator_prefix: str = "Pokedex:"):
     filtered_images = []
     links = []
     # Filter images by initiator attribute
+    
+
     for img in images:
-      if "Min-" in img['alt']:
+
         img['alt'] = img['alt'].replace('Min-', "")
         # img['alt'] = img['alt'].replace('-', " ")
         img['alt'] = img['alt'].replace('.png', "")
-        filtered_images.append(img['alt'])
-        links.append(img['src'])
+        img['alt'] = img['alt'].lower()
+
+        print(img['alt'])
+
+        if img['alt'] in name_pokemon:
+            
+            filtered_images.append(img['alt'])
+            links.append(img['src'])
+
+            
 
     return filtered_images, links
 
