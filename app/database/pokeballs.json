@@ -1,0 +1,80 @@
+{
+    "_default": {
+        "1": {
+            "name": "PokeBall",
+            "link": "https://wiki.otpokemon.com/images/4/4c/Pokeball.png"
+        },
+        "2": {
+            "name": "GreatBall",
+            "link": "https://wiki.otpokemon.com/images/4/45/Great_Ball.png"
+        },
+        "3": {
+            "name": "PremierBall",
+            "link": "https://wiki.otpokemon.com/images/8/8d/Premier_Ball.png"
+        },
+        "4": {
+            "name": "UltraBall",
+            "link": "https://wiki.otpokemon.com/images/3/34/Ultra_Ball.png"
+        },
+        "5": {
+            "name": "FriendBall",
+            "link": "https://wiki.otpokemon.com/images/c/cb/Friend---Ball.png"
+        },
+        "6": {
+            "name": "LevelBall",
+            "link": "https://wiki.otpokemon.com/images/c/c2/Level---Ball.png"
+        },
+        "7": {
+            "name": "LoveBall",
+            "link": "https://wiki.otpokemon.com/images/e/e4/Love---Ball.png"
+        },
+        "8": {
+            "name": "LureBall",
+            "link": "https://wiki.otpokemon.com/images/9/93/Lure-Ball.png"
+        },
+        "9": {
+            "name": "DiveBall",
+            "link": "https://wiki.otpokemon.com/images/9/94/Dive-Ball.png"
+        },
+        "10": {
+            "name": "DuskBall",
+            "link": "https://wiki.otpokemon.com/images/9/90/Dusk_ball.png"
+        },
+        "11": {
+            "name": "LuxuryBall",
+            "link": "https://wiki.otpokemon.com/images/e/eb/Luxury-Ball.png"
+        },
+        "12": {
+            "name": "RepeatBall",
+            "link": "https://wiki.otpokemon.com/images/e/ea/Repeat-Ball.png"
+        },
+        "13": {
+            "name": "CherishBall",
+            "link": "https://wiki.otpokemon.com/images/c/c3/Cherish_Ball.png"
+        },
+        "14": {
+            "name": "MasterBall",
+            "link": "https://wiki.otpokemon.com/images/7/79/Master_ball.png"
+        },
+        "15": {
+            "name": "HeavyBall",
+            "link": "https://wiki.otpokemon.com/images/1/13/Heavy_Ball.png"
+        },
+        "16": {
+            "name": "MoonBall",
+            "link": "https://wiki.otpokemon.com/images/6/64/Moon_ball.png"
+        },
+        "17": {
+            "name": "NetBall",
+            "link": "https://wiki.otpokemon.com/images/d/dc/Net_ball-otp.png"
+        },
+        "18": {
+            "name": "ParkBall",
+            "link": "https://wiki.otpokemon.com/images/5/51/Park_Ball_.png"
+        },
+        "19": {
+            "name": "SafariBall",
+            "link": "https://wiki.otpokemon.com/images/4/46/Safari_Ball.png"
+        }
+    }
+}
