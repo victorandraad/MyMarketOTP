@@ -74,6 +74,7 @@ class Items(BaseModel):
 
 class PostInDB(Post):
     owner: EmailStr
+    identifier: str
 
 class ItemInDB(Items):
     owner: EmailStr
