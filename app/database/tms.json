@@ -1,0 +1,400 @@
+{
+    "_default": {
+        "1": {
+            "name": "TM01 - Fly",
+            "link": "https://wiki.otpokemon.com/images/b/b8/Flying_type_tm_disk.png"
+        },
+        "2": {
+            "name": "TM02 - Dragon Claw",
+            "link": "https://wiki.otpokemon.com/images/c/cf/Dragon_type_tm_disk.png"
+        },
+        "3": {
+            "name": "TM03 - Leech Life",
+            "link": "https://wiki.otpokemon.com/images/7/79/Bug_type_tm_disk.png"
+        },
+        "4": {
+            "name": "TM04 - Calm Mind",
+            "link": "https://wiki.otpokemon.com/images/3/34/Psychic_type_tm_disk.png"
+        },
+        "5": {
+            "name": "TM05 - Waterfall",
+            "link": "https://wiki.otpokemon.com/images/d/d2/Water_type_tm_disk.png"
+        },
+        "6": {
+            "name": "TM06 - Toxic",
+            "link": "https://wiki.otpokemon.com/images/3/3e/Poison_type_tm_disk.png"
+        },
+        "7": {
+            "name": "TM07 - Dark Pulse",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "8": {
+            "name": "TM08 - Bulk Up",
+            "link": "https://wiki.otpokemon.com/images/7/76/Fighting_type_tm_disk.png"
+        },
+        "9": {
+            "name": "TM09 - Venoshock",
+            "link": "https://wiki.otpokemon.com/images/3/3e/Poison_type_tm_disk.png"
+        },
+        "10": {
+            "name": "TM10 - Aurora Veil",
+            "link": "https://wiki.otpokemon.com/images/2/2c/Ice_type_tm_disk.png"
+        },
+        "11": {
+            "name": "TM11 - Will-O-Wisp",
+            "link": "https://wiki.otpokemon.com/images/b/bf/Fire_type_tm_disk.png"
+        },
+        "12": {
+            "name": "TM12 - Taunt",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "13": {
+            "name": "TM13 - Ice Beam",
+            "link": "https://wiki.otpokemon.com/images/2/2c/Ice_type_tm_disk.png"
+        },
+        "14": {
+            "name": "TM14 - Blizzard",
+            "link": "https://wiki.otpokemon.com/images/2/2c/Ice_type_tm_disk.png"
+        },
+        "15": {
+            "name": "TM15 - Hyper Beam",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "16": {
+            "name": "TM16 - Swords Dance",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "17": {
+            "name": "TM17 - Dragon Tail",
+            "link": "https://wiki.otpokemon.com/images/c/cf/Dragon_type_tm_disk.png"
+        },
+        "18": {
+            "name": "TM18 - X-Scissor",
+            "link": "https://wiki.otpokemon.com/images/7/79/Bug_type_tm_disk.png"
+        },
+        "19": {
+            "name": "TM19 - Roost",
+            "link": "https://wiki.otpokemon.com/images/b/b8/Flying_type_tm_disk.png"
+        },
+        "20": {
+            "name": "TM20 - Safeguard",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "21": {
+            "name": "TM21 - Stone Edge",
+            "link": "https://wiki.otpokemon.com/images/9/94/Rock_type_tm_disk.png"
+        },
+        "22": {
+            "name": "TM22 - Solar Beam",
+            "link": "https://wiki.otpokemon.com/images/b/b6/Grass_type_tm_disk.png"
+        },
+        "23": {
+            "name": "TM23 - Iron Tail",
+            "link": "https://wiki.otpokemon.com/images/c/cd/Steel_type_tm_disk.png"
+        },
+        "24": {
+            "name": "TM24 - Thunderbolt",
+            "link": "https://wiki.otpokemon.com/images/b/b4/Electric_type_tm_disk.png"
+        },
+        "25": {
+            "name": "TM25 - Thunder",
+            "link": "https://wiki.otpokemon.com/images/b/b4/Electric_type_tm_disk.png"
+        },
+        "26": {
+            "name": "TM26 - Struggle Bug",
+            "link": "https://wiki.otpokemon.com/images/7/79/Bug_type_tm_disk.png"
+        },
+        "27": {
+            "name": "TM27 - Explosion",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "28": {
+            "name": "TM28 - Dig",
+            "link": "https://wiki.otpokemon.com/images/2/28/Ground_type_tm_disk.png"
+        },
+        "29": {
+            "name": "TM29 - Psychic",
+            "link": "https://wiki.otpokemon.com/images/3/34/Psychic_type_tm_disk.png"
+        },
+        "30": {
+            "name": "TM30 - Shadow Ball",
+            "link": "https://wiki.otpokemon.com/images/8/8c/Ghost_type_tm_disk.png"
+        },
+        "31": {
+            "name": "TM31 - Brick Break",
+            "link": "https://wiki.otpokemon.com/images/7/76/Fighting_type_tm_disk.png"
+        },
+        "32": {
+            "name": "TM32 - Double Team",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "33": {
+            "name": "TM33 - Swagger",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "34": {
+            "name": "TM34 - Sleep Talk",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "35": {
+            "name": "TM35 - Flamethrower",
+            "link": "https://wiki.otpokemon.com/images/b/bf/Fire_type_tm_disk.png"
+        },
+        "36": {
+            "name": "TM36 - Sludge Bomb",
+            "link": "https://wiki.otpokemon.com/images/3/3e/Poison_type_tm_disk.png"
+        },
+        "37": {
+            "name": "TM37 - Dazzling Gleam",
+            "link": "https://wiki.otpokemon.com/images/8/81/Fairy_type_tm_disk.png"
+        },
+        "38": {
+            "name": "TM38 - Fire Blast",
+            "link": "https://wiki.otpokemon.com/images/b/bf/Fire_type_tm_disk.png"
+        },
+        "39": {
+            "name": "TM39 - Rock Tomb",
+            "link": "https://wiki.otpokemon.com/images/9/94/Rock_type_tm_disk.png"
+        },
+        "40": {
+            "name": "TM40 - Aerial Ace",
+            "link": "https://wiki.otpokemon.com/images/b/b8/Flying_type_tm_disk.png"
+        },
+        "41": {
+            "name": "TM41 - Torment",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "42": {
+            "name": "TM42 - Dream Eater",
+            "link": "https://wiki.otpokemon.com/images/3/34/Psychic_type_tm_disk.png"
+        },
+        "43": {
+            "name": "TM43 - Flame Charge",
+            "link": "https://wiki.otpokemon.com/images/b/bf/Fire_type_tm_disk.png"
+        },
+        "44": {
+            "name": "TM44 - Gyro Ball",
+            "link": "https://wiki.otpokemon.com/images/c/cd/Steel_type_tm_disk.png"
+        },
+        "45": {
+            "name": "TM45 - Thunder Wave",
+            "link": "https://wiki.otpokemon.com/images/b/b4/Electric_type_tm_disk.png"
+        },
+        "46": {
+            "name": "TM46 - Thief",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "47": {
+            "name": "TM47 - Low Sweep",
+            "link": "https://wiki.otpokemon.com/images/7/76/Fighting_type_tm_disk.png"
+        },
+        "48": {
+            "name": "TM48 - Rock Slide",
+            "link": "https://wiki.otpokemon.com/images/9/94/Rock_type_tm_disk.png"
+        },
+        "49": {
+            "name": "TM49 - Surf",
+            "link": "https://wiki.otpokemon.com/images/d/d2/Water_type_tm_disk.png"
+        },
+        "50": {
+            "name": "TM50 - Overheat",
+            "link": "https://wiki.otpokemon.com/images/b/bf/Fire_type_tm_disk.png"
+        },
+        "51": {
+            "name": "TM51 - Steel Wing",
+            "link": "https://wiki.otpokemon.com/images/c/cd/Steel_type_tm_disk.png"
+        },
+        "52": {
+            "name": "TM52 - Focus Blast",
+            "link": "https://wiki.otpokemon.com/images/7/76/Fighting_type_tm_disk.png"
+        },
+        "53": {
+            "name": "TM53 - Energy Ball",
+            "link": "https://wiki.otpokemon.com/images/b/b6/Grass_type_tm_disk.png"
+        },
+        "54": {
+            "name": "TM54 - Rock Polish",
+            "link": "https://wiki.otpokemon.com/images/9/94/Rock_type_tm_disk.png"
+        },
+        "55": {
+            "name": "TM55 - Scald",
+            "link": "https://wiki.otpokemon.com/images/d/d2/Water_type_tm_disk.png"
+        },
+        "56": {
+            "name": "TM56 - Shadow Claw",
+            "link": "https://wiki.otpokemon.com/images/8/8c/Ghost_type_tm_disk.png"
+        },
+        "57": {
+            "name": "TM57 - Wild Charge",
+            "link": "https://wiki.otpokemon.com/images/b/b4/Electric_type_tm_disk.png"
+        },
+        "58": {
+            "name": "TM58 - Bulldoze",
+            "link": "https://wiki.otpokemon.com/images/2/28/Ground_type_tm_disk.png"
+        },
+        "59": {
+            "name": "TM59 - Brutal Swing",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "60": {
+            "name": "TM60 - Smart Strike",
+            "link": "https://wiki.otpokemon.com/images/c/cd/Steel_type_tm_disk.png"
+        },
+        "61": {
+            "name": "TM61 - Water Pulse",
+            "link": "https://wiki.otpokemon.com/images/d/d2/Water_type_tm_disk.png"
+        },
+        "62": {
+            "name": "TM62 - Charm",
+            "link": "https://wiki.otpokemon.com/images/8/81/Fairy_type_tm_disk.png"
+        },
+        "63": {
+            "name": "TM63 - Lash Out",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "64": {
+            "name": "TM64 - Magical Leaf",
+            "link": "https://wiki.otpokemon.com/images/b/b6/Grass_type_tm_disk.png"
+        },
+        "65": {
+            "name": "TM65 - Ice Fang",
+            "link": "https://wiki.otpokemon.com/images/2/2c/Ice_type_tm_disk.png"
+        },
+        "66": {
+            "name": "TM66 - Assurance",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "67": {
+            "name": "TM67 - Payback",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "68": {
+            "name": "TM68 - Powerup Punch",
+            "link": "https://wiki.otpokemon.com/images/7/76/Fighting_type_tm_disk.png"
+        },
+        "69": {
+            "name": "TM69 - Brine",
+            "link": "https://wiki.otpokemon.com/images/d/d2/Water_type_tm_disk.png"
+        },
+        "70": {
+            "name": "TM70 - Whirlpool",
+            "link": "https://wiki.otpokemon.com/images/d/d2/Water_type_tm_disk.png"
+        },
+        "71": {
+            "name": "TM71 - Psycho Cut",
+            "link": "https://wiki.otpokemon.com/images/3/34/Psychic_type_tm_disk.png"
+        },
+        "72": {
+            "name": "TM72 - Fire Fang",
+            "link": "https://wiki.otpokemon.com/images/b/bf/Fire_type_tm_disk.png"
+        },
+        "73": {
+            "name": "TM73 - Roar",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "74": {
+            "name": "TM74 - Incinerate",
+            "link": "https://wiki.otpokemon.com/images/b/bf/Fire_type_tm_disk.png"
+        },
+        "75": {
+            "name": "TM75 - Grass Knot",
+            "link": "https://wiki.otpokemon.com/images/b/b6/Grass_type_tm_disk.png"
+        },
+        "76": {
+            "name": "TM76 - Play Rough",
+            "link": "https://wiki.otpokemon.com/images/8/81/Fairy_type_tm_disk.png"
+        },
+        "77": {
+            "name": "TM77 - Air Slash",
+            "link": "https://wiki.otpokemon.com/images/b/b8/Flying_type_tm_disk.png"
+        },
+        "78": {
+            "name": "TM78 - Phantom Force",
+            "link": "https://wiki.otpokemon.com/images/8/8c/Ghost_type_tm_disk.png"
+        },
+        "79": {
+            "name": "TM79 - Razor Shell",
+            "link": "https://wiki.otpokemon.com/images/d/d2/Water_type_tm_disk.png"
+        },
+        "80": {
+            "name": "TM80 - Fake Tears",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "81": {
+            "name": "TM81 - Nasty Plot",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "82": {
+            "name": "TM82 - Fake Out",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "83": {
+            "name": "TM83 - Icicle Spear",
+            "link": "https://wiki.otpokemon.com/images/2/2c/Ice_type_tm_disk.png"
+        },
+        "84": {
+            "name": "TM84 - U-turn",
+            "link": "https://wiki.otpokemon.com/images/7/79/Bug_type_tm_disk.png"
+        },
+        "85": {
+            "name": "TM85 - Volt Switch",
+            "link": "https://wiki.otpokemon.com/images/b/b4/Electric_type_tm_disk.png"
+        },
+        "86": {
+            "name": "TM86 - Cross Poison",
+            "link": "https://wiki.otpokemon.com/images/3/3e/Poison_type_tm_disk.png"
+        },
+        "87": {
+            "name": "TM87 - Snarl",
+            "link": "https://wiki.otpokemon.com/images/3/37/Dark_type_tm_disk.png"
+        },
+        "88": {
+            "name": "TM88 - Avalanche",
+            "link": "https://wiki.otpokemon.com/images/2/2c/Ice_type_tm_disk.png"
+        },
+        "89": {
+            "name": "TM89 - Breaking Swipe",
+            "link": "https://wiki.otpokemon.com/images/c/cf/Dragon_type_tm_disk.png"
+        },
+        "90": {
+            "name": "TM90 - Trailblaze",
+            "link": "https://wiki.otpokemon.com/images/b/b6/Grass_type_tm_disk.png"
+        },
+        "91": {
+            "name": "TM91 - Bubble Beam",
+            "link": "https://wiki.otpokemon.com/images/d/d2/Water_type_tm_disk.png"
+        },
+        "92": {
+            "name": "TM92 - Hydro Pump",
+            "link": "https://wiki.otpokemon.com/images/d/d2/Water_type_tm_disk.png"
+        },
+        "93": {
+            "name": "TM93 - Heat Wave",
+            "link": "https://wiki.otpokemon.com/images/b/bf/Fire_type_tm_disk.png"
+        },
+        "94": {
+            "name": "TM94 - Chilling Water",
+            "link": "https://wiki.otpokemon.com/images/d/d2/Water_type_tm_disk.png"
+        },
+        "95": {
+            "name": "TM95 - Giga Impact",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "96": {
+            "name": "TM96 - Acrobatics",
+            "link": "https://wiki.otpokemon.com/images/b/b8/Flying_type_tm_disk.png"
+        },
+        "97": {
+            "name": "TM97 - Pollen Puff",
+            "link": "https://wiki.otpokemon.com/images/7/79/Bug_type_tm_disk.png"
+        },
+        "98": {
+            "name": "TM98 - Facade",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        },
+        "99": {
+            "name": "TM99 - Hyper Voice",
+            "link": "https://wiki.otpokemon.com/images/2/2e/Normal_type_tm_disk.png"
+        }
+    }
+}
