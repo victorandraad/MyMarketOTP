@@ -1,6 +1,7 @@
 from app.models.models import *
 from fastapi import UploadFile
 from tinydb import TinyDB, Query
+from app.models.pyrodb import *
 
 poke_db = TinyDB("./app/database/pokemons.json", indent = 4)
 stone_db = TinyDB("./app/database/stones.json", indent = 4)
@@ -136,4 +137,18 @@ class Validate():
         # Validate name
         if not self.credential_length(item_data['name'], 50):
             return "Item name must have between 2 and 50 characters" 
+    
+    def validate_post(self, post_identifier: str, user: User):
+        
+        post_owner = get_user_by_post(post_identifier)
+
+        if not user == post_owner:
+            return post_owner, user
+
+        
+
+        return posts.find({
+            'identifier': post_identifier
+        })
+
     
