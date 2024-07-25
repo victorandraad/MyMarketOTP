@@ -140,15 +140,8 @@ class Validate():
     
     def validate_post(self, post_identifier: str, user: User):
         
-        post_owner = get_user_by_post(post_identifier)
-
-        if not user == post_owner:
-            return post_owner, user
-
-        
-
-        return posts.find({
-            'identifier': post_identifier
-        })
+        user_data = user.model_dump()
+        if not post_identifier in user_data['posts']:
+            retun "You don't have access to this post"
 
     
