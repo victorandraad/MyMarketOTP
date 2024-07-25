@@ -10,7 +10,7 @@ validate = Validate()
 
 
 # --> Post Creation <--
-@router.post("/create_post")
+@router.post("/create")
 async def create_post(post_info: Post, user: User = Depends(get_current_active_user)) -> dict:
 
     user_email = user.model_dump()['email']
@@ -22,7 +22,7 @@ async def create_post(post_info: Post, user: User = Depends(get_current_active_u
     return {"status": 200, "detail": "Post created succesfully", "post_id": post_id}
 
 
-@router.post("/create_post/pokemon")
+@router.post("/pokemon")
 async def add_pokemon(pokemon: Pokemon, user: User = Depends(get_current_active_user)) -> dict:
     
     user = user.model_dump()
@@ -39,7 +39,7 @@ async def add_pokemon(pokemon: Pokemon, user: User = Depends(get_current_active_
     return {"status": 200, "detail": "Pokemon added to the post succesfully", 'user_data': user}
 
 
-@router.post("/create_post/item")
+@router.post("/item")
 async def add_item(item: Items, user: User = Depends(get_current_active_user)) -> dict:
 
     user_email = user.model_dump()['email']
