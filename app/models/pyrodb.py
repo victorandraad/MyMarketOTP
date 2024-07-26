@@ -10,7 +10,6 @@ from jose import jwt
 uri = config("URI_LINK")
 db_con = MongoClient(uri)
 db = db_con["PyroDB"]
-# fs = GridFS(db, "Files")
 users = db["Users"]
 items = db["Items"]
 pokemons = db["Pokemons"]
@@ -74,8 +73,7 @@ def verify_user(key) -> None:
 # --> Post Handling <--
 def create_post(post: Post, user_email: str) -> str:
     identifier = str(uuid4())
-    quantidade = 0
-    post_to_create = PostInDB(identifier=identifier, owner=user_email, qtd=quantidade, **post.model_dump()).model_dump()
+    post_to_create = PostInDB(identifier=identifier, owner=user_email, **post.model_dump()).model_dump()
     
     posts.insert_one(post_to_create)
     append_post_to_owner(user_email, identifier)
@@ -93,3 +91,23 @@ def insert_item_to_post(user_email: str, item: Items):
     
     items.insert_one(insert_item)
     # append_post_to_owner(user_email)
+
+def get_post_by_identifier(identifier: str):
+    post_data = posts.find_one({'identifier': identifier})
+    if post_data:
+        return PostInDB(**post_data)
+
+def get_post_by_owner(user_email: str):
+    posts_data = posts.find({'owner': user_email})
+
+    if posts_data:
+        return [PostInDB(**post_data) for post_data in posts_data]
+    else:
+        return []
+
+def increase_qnt(post_identifier: str, qnt: int):
+    posts.update_one({
+    'identifier': post_identifier,   
+    },
+    { "$set": { "elements": qnt + 1 } }
+    )

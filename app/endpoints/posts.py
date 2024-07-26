@@ -53,3 +53,19 @@ async def add_item(item: Items, user: User = Depends(get_current_active_user)) -
     
     pyrodb.insert_item_to_post(user_email, item)
     return {"status": 200, "detail": "Item added to the post succesfully"}
+
+
+@router.get('/{post_identifier}')
+def get_post(post_identifier: str):
+    post = pyrodb.get_post_by_identifier(post_identifier)
+    if not post:
+        raise HTTPException(status_code=404, detail="Post not found")
+
+    return post
+
+@router.get('/owner/{user_email}')
+def get_posts_by_owner(user_email: str):
+    posts = pyrodb.get_post_by_owner(user_email)
+    if not posts:
+        raise HTTPException(status_code=404, detail="User posts not found")
+    return posts
