@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException, UploadFile, File
+from fastapi import APIRouter, Depends, HTTPException
 from app.models.models import *
 import app.models.pyrodb as pyrodb
 from app.validation.auth import *
@@ -10,7 +10,7 @@ validate = Validate()
 
 
 # --> Post Creation <--
-@router.post("/create_post")
+@router.post("/create")
 async def create_post(post_info: Post, user: User = Depends(get_current_active_user)) -> dict:
 
     user_email = user.model_dump()['email']
@@ -22,7 +22,7 @@ async def create_post(post_info: Post, user: User = Depends(get_current_active_u
     return {"status": 200, "detail": "Post created succesfully", "post_id": post_id}
 
 
-@router.post("/create_post/pokemon")
+@router.post("/pokemon")
 async def add_pokemon(pokemon: Pokemon, user: User = Depends(get_current_active_user)) -> dict:
     
     user = user.model_dump()
@@ -39,13 +39,33 @@ async def add_pokemon(pokemon: Pokemon, user: User = Depends(get_current_active_
     return {"status": 200, "detail": "Pokemon added to the post succesfully", 'user_data': user}
 
 
-@router.post("/create_post/item")
+@router.post("/item")
 async def add_item(item: Items, user: User = Depends(get_current_active_user)) -> dict:
 
     user_email = user.model_dump()['email']
+    anuncio_id = item.model_dump()['identifier']
+
+    if v := validate.validate_post(anuncio_id, user):
+        raise HTTPException(400, detail=v)
 
     if v := validate.validate_items(item):
         raise HTTPException(400, detail=v)
     
     pyrodb.insert_item_to_post(user_email, item)
     return {"status": 200, "detail": "Item added to the post succesfully"}
+
+
+@router.get('/{post_identifier}')
+def get_post(post_identifier: str):
+    post = pyrodb.get_post_by_identifier(post_identifier)
+    if not post:
+        raise HTTPException(status_code=404, detail="Post not found")
+
+    return post
+
+@router.get('/owner/{user_email}')
+def get_posts_by_owner(user_email: str):
+    posts = pyrodb.get_post_by_owner(user_email)
+    if not posts:
+        raise HTTPException(status_code=404, detail="User posts not found")
+    return posts

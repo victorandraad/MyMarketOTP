@@ -75,7 +75,7 @@ class Items(BaseModel):
 class PostInDB(Post):
     owner: EmailStr
     identifier: str
-    qtd: int
+    elements: int = 0
 
 class ItemInDB(Items):
     owner: EmailStr
