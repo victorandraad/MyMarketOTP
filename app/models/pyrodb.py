@@ -1,10 +1,12 @@
 from decouple import config
-from fastapi import HTTPException, UploadFile
+from fastapi import HTTPException
 from pymongo.mongo_client import MongoClient
 from passlib.context import CryptContext
 from app.models.models import *
 from uuid import uuid4
 from jose import jwt
+from bson import ObjectId
+from pymongo import MongoClient
 
 # --> MongoDB Stuff <--
 uri = config("URI_LINK")
@@ -86,24 +88,66 @@ def insert_pokemon_to_post(user_email: str, pokemon: Pokemon):
     pokemons.insert_one(insert_pokemon)
     # append_post_to_owner(user_email)
 
-def insert_item_to_post(user_email: str, item: Items):
+def insert_item_to_post(user_email: str, item: Item):
     insert_item = ItemInDB(owner=user_email, **item.model_dump()).model_dump()
     
     items.insert_one(insert_item)
     # append_post_to_owner(user_email)
 
+# Função para converter MongoDB ObjectId para string
+def serialize_document(document):
+    """Converte um documento MongoDB para um formato serializável em JSON."""
+    if isinstance(document, dict):
+        return {k: (str(v) if isinstance(v, ObjectId) else serialize_document(v)) for k, v in document.items()}
+    elif isinstance(document, list):
+        return [serialize_document(item) for item in document]
+    return document
+
 def get_post_by_identifier(identifier: str):
+    # Obter o post
     post_data = posts.find_one({'identifier': identifier})
-    if post_data:
-        return PostInDB(**post_data)
+    if not post_data:
+        return {"error": "Post not found"}
+
+    # Obter os itens associados
+    post_items = list(items.find({'identifier': identifier}))
+    post_items_serialized = [serialize_document(item) for item in post_items]
+
+    # Obter os pokemons associados
+    post_pokemons = list(pokemons.find({'identifier': identifier}))
+    post_pokemons_serialized = [serialize_document(pokemon) for pokemon in post_pokemons]
+
+    # Criar o PostDetails
+    post_data_serialized = serialize_document(post_data)
+    post_details = PostDetails(
+        **post_data_serialized,
+        items=post_items_serialized,
+        pokemons=post_pokemons_serialized
+    )
+
+    return post_details
 
 def get_post_by_owner(user_email: str):
-    posts_data = posts.find({'owner': user_email})
+    posts_data = list(posts.find({'owner': user_email}))
+    posts_serialized = serialize_document(posts_data)
 
-    if posts_data:
-        return [PostInDB(**post_data) for post_data in posts_data]
-    else:
-        return []
+    for post in posts_serialized:
+        identifier = post['identifier']
+        # Obter os itens associados
+        post_items = list(items.find({'identifier': identifier}))
+        post_items_serialized = [serialize_document(item) for item in post_items]
+
+        # Obter os pokemons associados
+        post_pokemons = list(pokemons.find({'identifier': identifier}))
+        post_pokemons_serialized = [serialize_document(pokemon) for pokemon in post_pokemons]
+
+        post['items'] = post_items
+        post['pokemons'] = post_pokemons
+
+    # Criando instâncias de PostInDB para retorno
+    post_models = [PostDetails(**post) for post in posts_serialized]
+
+    return post_models
 
 def increase_qnt(post_identifier: str, qnt: int):
     posts.update_one({
@@ -111,3 +155,26 @@ def increase_qnt(post_identifier: str, qnt: int):
     },
     { "$set": { "elements": qnt + 1 } }
     )
+
+def get_all_posts():
+    posts_cursor = posts.find()
+    posts_list = list(posts_cursor)
+    posts_serialized = [serialize_document(post) for post in posts_list]
+
+    for post in posts_serialized:
+        identifier = post['identifier']
+        # Obter os itens associados
+        post_items = list(items.find({'identifier': identifier}))
+        post_items_serialized = [serialize_document(item) for item in post_items]
+
+        # Obter os pokemons associados
+        post_pokemons = list(pokemons.find({'identifier': identifier}))
+        post_pokemons_serialized = [serialize_document(pokemon) for pokemon in post_pokemons]
+
+        post['items'] = post_items
+        post['pokemons'] = post_pokemons
+
+    # Criando instâncias de PostInDB para retorno
+    post_models = [PostDetails(**post) for post in posts_serialized]
+
+    return post_models

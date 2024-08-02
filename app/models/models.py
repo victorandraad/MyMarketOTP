@@ -1,5 +1,5 @@
 from pydantic import BaseModel, EmailStr
-from typing import Optional
+from typing import Optional, List
 from datetime import datetime
 
 # --> Token Models <--
@@ -67,7 +67,7 @@ class Pokemon(BaseModel):
     addon: str
     boost: int
 
-class Items(BaseModel):
+class Item(BaseModel):
     identifier: str
     type: str
     name: str
@@ -77,7 +77,11 @@ class PostInDB(Post):
     identifier: str
     elements: int = 0
 
-class ItemInDB(Items):
+class PostDetails(PostInDB):
+    items: List[Item]  # Corrigido para ser uma lista de Items
+    pokemons: List[Pokemon]  # Corrigido para ser uma lista de Pokemons
+
+class ItemInDB(Item):
     owner: EmailStr
 
 class PokemonInDB(Pokemon):
