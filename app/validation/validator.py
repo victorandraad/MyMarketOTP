@@ -109,7 +109,7 @@ class Validate():
         if not (0 <= pokemon_data['boost'] <= 10):
             return "Pokemon boost must be between 0 and 10" 
 
-    def validate_items(self, item: Items):
+    def validate_items(self, item: Item):
         item_data = item.model_dump()
 
         types = ["stone", "tm", "pokeball", "undefined"]
