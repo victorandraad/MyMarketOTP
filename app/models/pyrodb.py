@@ -83,27 +83,29 @@ def create_post(post: Post, user_email: str) -> str:
     return identifier
 
 def insert_pokemon_to_post(user_email: str, pokemon: Pokemon):
-    insert_pokemon = PokemonInDB(owner=user_email, **pokemon.model_dump()).model_dump()
+    identifier = str(uuid4())
+    insert_pokemon = PokemonInDB(owner=user_email, identifier = identifier, **pokemon.model_dump()).model_dump()
     
     pokemons.insert_one(insert_pokemon)
-    post_data = get_post_by_identifier(pokemon['identifier']).model_dump()
+    post_data = get_post_by_identifier(pokemon.post_identifier).model_dump()
     qnt = post_data['elements']
     if qnt >= 3:
         return "You can't add more than 3 elements on a post"
-
-    increase_qnt(post_identifier, qnt)
+    
+    increase_qnt(pokemon.post_identifier, qnt)
     # append_post_to_owner(user_email)
 
 def insert_item_to_post(user_email: str, item: Item):
-    insert_item = ItemInDB(owner=user_email, **item.model_dump()).model_dump()
+    identifier = str(uuid4())
+    insert_item = ItemInDB(owner=user_email, identifier = str(uuid4()), **item.model_dump()).model_dump()
     
     items.insert_one(insert_item)
-    post_data = get_post_by_identifier(item['identifier']).model_dump()
+    post_data = get_post_by_identifier(item.post_identifier).model_dump()
     qnt = post_data['elements']
     if qnt >= 3:
         return "You can't add more than 3 elements on a post"
 
-    increase_qnt(post_identifier, qnt)
+    increase_qnt(item.post_identifier, qnt)
     # append_post_to_owner(user_email)
 
 # Função para converter MongoDB ObjectId para string
@@ -168,6 +170,15 @@ def increase_qnt(post_identifier: str, qnt: int):
     { "$set": { "elements": qnt + 1 } }
     )
 
+
+def decrease_qnt(post_identifier: str, qnt: int):
+    posts.update_one({
+    'identifier': post_identifier,   
+    },{
+        "$set": {"elements": qnt - 1}
+    })
+
+
 def get_all_posts():
     posts_cursor = posts.find()
     posts_list = list(posts_cursor)
@@ -224,3 +235,39 @@ def delete_post(identifier: str, user_email: str):
 
     # Remover o post do banco de dados
     posts.delete_one({'identifier': identifier})
+
+def delete_item(identifier: str, user_email: str):
+    # Verificar se o item existe
+    item = items.find_one({'identifier': identifier})
+    if not item:
+        raise HTTPException(status_code=404, detail="Item not found")
+
+    # Verificar se o usuário é o dono do item
+    if item['owner'] != user_email:
+        raise HTTPException(status_code=403, detail="You are not authorized to delete this item")
+
+    post_identifier = item['post_identifier']
+
+    post_data = get_post_by_identifier(post_identifier).model_dump()
+    qnt = post_data['elements']
+
+    items.delete_one({'identifier': identifier})
+    decrease_qnt(post_identifier, qnt)
+
+def delete_pokemon(identifier: str, user_email:str):
+    # verificar se o pokemon existe
+    pokemon = pokemons.find_one({'identifier': identifier})
+
+    if not pokemon:
+        raise HTTPException(status_code=404, detail="Pokemon not found")
+
+    if pokemon['owner'] != user_email:
+        raise HTTPException(status_code=403, detail="You are not authorized to delete this pokemon")
+
+    post_identifier = pokemon['post_identifier']
+
+    post_data = get_post_by_identifier(post_identifier).model_dump()
+    qnt = post_data['elements']
+
+    pokemons.delete_one({'identifier': identifier})
+    decrease_qnt(post_identifier, qnt)

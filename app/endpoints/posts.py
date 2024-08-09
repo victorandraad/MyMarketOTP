@@ -27,7 +27,7 @@ async def add_pokemon(pokemon: Pokemon, user: User = Depends(get_current_active_
     
     user = user.model_dump()
     user_email = user['email']
-    anuncio_id = pokemon.model_dump()['identifier']
+    anuncio_id = pokemon.model_dump()['post_identifier']
 
     if v := validate.validate_post(anuncio_id, user):
         raise HTTPException(400, detail=v)
@@ -38,14 +38,14 @@ async def add_pokemon(pokemon: Pokemon, user: User = Depends(get_current_active_
     if v := pyrodb.insert_pokemon_to_post(user_email, pokemon):
         raise HTTPException(400, detail=v)
         
-    return {"status": 200, "detail": "Pokemon added to the post succesfully", 'user_data': user}
+    return {"status": 200, "detail": "Pokemon added to the post succesfully"}
 
 
 @router.post("/item")
 async def add_item(item: Item, user: User = Depends(get_current_active_user)) -> dict:
 
     user_email = user.model_dump()['email']
-    anuncio_id = item.model_dump()['identifier']
+    anuncio_id = item.model_dump()['post_identifier']
 
     if v := validate.validate_post(anuncio_id, user):
         raise HTTPException(400, detail=v)
@@ -90,3 +90,20 @@ async def delete_post(identifier: str, user: User = Depends(get_current_active_u
 
     pyrodb.delete_post(identifier, user_email)
     return {"status": 200, "detail": "Post deleted succesfully"}
+
+@router.delete('/item/{identifier}')
+def delete_item(identifier: str, user: User = Depends(get_current_active_user)):
+    user_email = user.model_dump()['email']
+    if v := pyrodb.delete_item(identifier, user_email):
+        raise HTTPException(400, detail=v)
+
+    return {"status": 200, "detail": "Item deleted succesfully"}
+
+
+@router.delete('/pokemon/{identifier}')
+def delete_pokemon(identifier: str, user: User = Depends(get_current_active_user)):
+    user_email = user.model_dump()['email']
+    if v := pyrodb.delete_pokemon(identifier, user_email):
+        raise HTTPException(400, detail=v)
+
+    return {"status": 200, "detail": "Pokemon deleted succesfully"}

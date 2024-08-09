@@ -139,9 +139,7 @@ class Validate():
             return "Item name must have between 2 and 50 characters" 
     
     def validate_post(self, post_identifier: str, user: User):
-        
-        user_data = user.model_dump()
+        user_data = user
         if not post_identifier in user_data['posts']:
             return "You don't have access to this post"
 
-    

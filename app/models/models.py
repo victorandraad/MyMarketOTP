@@ -58,7 +58,7 @@ class Post(BaseModel):
     datetime: int
 
 class Pokemon(BaseModel):
-    identifier: str
+    post_identifier: str
     name: str
     level: int
     nature: str
@@ -68,7 +68,7 @@ class Pokemon(BaseModel):
     boost: int
 
 class Item(BaseModel):
-    identifier: str
+    post_identifier: str
     type: str
     name: str
 
@@ -82,7 +82,9 @@ class PostDetails(PostInDB):
     pokemons: List[Pokemon]  # Corrigido para ser uma lista de Pokemons
 
 class ItemInDB(Item):
+    identifier: str
     owner: EmailStr
 
 class PokemonInDB(Pokemon):
+    identifier: str
     owner: EmailStr
