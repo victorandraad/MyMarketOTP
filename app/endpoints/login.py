@@ -9,6 +9,7 @@ from app.validation.validator import Validate
 router = APIRouter()
 validate = Validate()
 
+
 # --> Authentication Routes <--
 @router.post("/signup", tags=["authentication"])
 def signup_for_account(form_data: UserInSignup):
@@ -17,7 +18,7 @@ def signup_for_account(form_data: UserInSignup):
     email = form_data["email"]
     
     if pyrodb.get_user(email):
-        raise HTTPException(400, detail="Email in already in use!")
+        raise HTTPException(400, detail="Email already in use")
 
     if v:= validate.username(form_data["username"]):
         raise HTTPException(400, detail=v)
@@ -34,8 +35,7 @@ def signup_for_account(form_data: UserInSignup):
 
     
 @router.post("/signin", response_model=Token, tags=["authentication"])
-async def login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends()):
-
+def login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends()):
     email: str = form_data.username
     password: str = form_data.password
 

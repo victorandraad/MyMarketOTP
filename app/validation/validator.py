@@ -27,7 +27,6 @@ class Validate():
         min_lenght = 3
 
         if not username.isalnum():
-            print(username, username.isalnum())
             return "Username can only have Letters and Numbers"
         
         elif not self.credential_length(username, max_lenght, min_lenght):

@@ -24,6 +24,9 @@ class UserInDB(User):
     key: str
     hashed_password: str
 
+class UserSignup(User):
+    password: str
+
 class UserInSignup(User):
     password: str
 

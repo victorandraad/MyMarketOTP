@@ -1,0 +1,285 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="..\css\output.css" rel="stylesheet">
+    <title>Document</title>
+    <script>
+        if (!localStorage.getItem('token')) {
+            window.location.href = 'http://localhost:5500/app/resources/views/login.html';
+        }
+    </script>
+</head>
+<body>
+  <div class="header flex justify-between p-10 h-[10vh]">
+    <div class="input-container gap-10 flex items-center">
+        <img class="rounded-full w-[50px] h-[50px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+        <input type="text" class="input border-2 border-white rounded-lg p-2 w-[30vw]" placeholder="Search">
+        <button class="btn text-black bg-white p-2 rounded-lg">Search</button>
+    </div>
+    
+    <div class="flex border-2 border-white rounded-lg p-2 gap-2 items-center self-center">
+        <img class="rounded-full w-[50px] h-[50px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+        <span>User name</span>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="flex">
+    <div class="menu flex flex-col h-[90vh] w-[35vh] justify-between">
+        <div class="flex p-2 flex-col">
+            <h2>
+                Filtros
+            </h2>
+
+            <div class="grid grid-cols-2 gap-y-3">
+                <div class="flex gap-1">
+                    <input class="w-[19px]" type="checkbox" name="price" id="price">
+                    <label for="price">Lorem</label>
+                </div>
+                <div class="flex gap-1">
+                    <input class="w-[19px]" type="checkbox" name="price" id="price">
+                    <label for="price">Ipsum</label>
+                </div>
+                <div class="flex gap-1">
+                    <input class="w-[19px]" type="checkbox" name="price" id="price">
+                    <label for="price">Lorem</label>
+                </div>
+                <div class="flex gap-1">
+                    <input class="w-[19px]" type="checkbox" name="price" id="price">
+                    <label for="price">Ipsum</label>
+                </div>
+                <div class="flex gap-1">
+                    <input class="w-[19px]" type="checkbox" name="price" id="price">
+                    <label for="price">Lorem</label>
+                </div>
+                <div class="flex gap-1">
+                    <input class="w-[19px]" type="checkbox" name="price" id="price">
+                    <label for="price">Ipsum</label>
+                </div>
+                <div class="flex gap-1">
+                    <input class="w-[19px]" type="checkbox" name="price" id="price">
+                    <label for="price">Lorem</label>
+                </div>
+                <div class="flex gap-1">
+                    <input class="w-[19px]" type="checkbox" name="price" id="price">
+                    <label for="price">Ipsum</label>
+                </div>
+                
+            </div>
+            
+        </div>
+        <hr>
+        <div class="flex p-2 flex-col">
+            <h2>
+                Preço
+            </h2>
+            <select class="bg-[#243478] border-2 border-white" name="" id="">
+                <option value="">R$ 0,00 - R$ 100,00</option>
+                <option value="">R$ 100,00 - R$ 200,00</option>
+                <option value="">R$ 200,00 - R$ 300,00</option>
+                <option value="">R$ 300,00 - R$ 400,00</option>
+                <option value="">R$ 400,00 - R$ 500,00</option>
+                <option value="">R$ 500,00 - R$ 600,00</option>
+                <option value="">R$ 600,00 - R$ 700,00</option>
+                <option value="">R$ 700,00 - R$ 800,00</option>
+                <option value="">R$ 800,00 - R$ 900,00</option>
+                <option value="">R$ 900,00 - R$ 1000,00</option>
+            </select>
+        </div>
+        <hr>
+        <div class="flex p-2 flex-col">
+            <h2>
+                Data
+            </h2>
+            <div class="flex gap-1">
+                <input class="w-[19px]" type="checkbox" name="" id="">
+                <label for="">Mais recentes</label>
+            </div>
+            <div class="flex gap-1">
+                <input class="w-[19px]" type="checkbox" name="" id="">
+                <label for="">Dessa semana</label>
+            </div>
+            <div class="flex gap-1">
+                <input class="w-[19px]" type="checkbox" name="" id="">
+                <label for="">Mais antigos</label>
+            </div>
+
+        </div>
+        <hr>
+        <div class="flex p-2 flex-col">
+            <a href="">Reportar bug</a>
+            <a href="">Enviar sugestão</a>
+            <span>2024&copy By OtpMarket</span>
+        </div>
+    </div>
+
+    <div class="content flex flex-col w-full h-ful overflow-auto h-[90vh] gap-0">
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+        <div class="flex flex-row w-full h-[100px]">
+            <div class="flex justify-center items-center border-2 border-white w-[14%]">
+                <img class="rounded-full w-[80px] h-[80px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx7Z-4u20EXxhklpwJLCnWuXvRaUiLSjxqg&s" alt="">
+            </div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+            <div class="border-2 border-white w-[14%]"></div>
+        </div>
+        <div class="flex w-[98%] min-h-[100px] border-2 border-white">
+
+        </div>
+
+    </div>
+    
+  </div>
+  
+
+</body>
+</html>
+
+<script src="../js/index.js"></script>
